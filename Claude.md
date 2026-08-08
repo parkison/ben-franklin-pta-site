@@ -28,8 +28,13 @@ Old site: mybenfranklinpta.org (WordPress, mascot: Eagles). Contact: communicati
 - [x] Committed and pushed to `github.com/parkison/ben-franklin-pta-site` (`main`)
 - [x] Azure Static Web App created (Free plan), linked to the repo via GitHub Actions (`.github/workflows/azure-static-web-apps-victorious-plant-0b639df10.yml`). Workflow uploads the pre-built `/public` directly — no build command, api/output locations blank. Every push to `main` auto-deploys.
 - [x] Verified live on the temporary `*.azurestaticapps.net` URL
-- [ ] Custom domain — Ben already owns the domain and has full Azure access/credit. Add it via Azure Portal > Custom domains and follow the DNS instructions Azure gives
-- [ ] Keep the old WordPress site (mybenfranklinpta.org) live until the domain is cut over to the new site
+- [x] Custom domain live — `mybenfranklinpta.org` and `www.mybenfranklinpta.org` both point to the Static Web App with free managed TLS certs (auto-renewed, expire 2027-02-08). DNS is on Cloudflare; the site's `www`/root records are set to **DNS only** (not proxied) since Azure's cert issuance/validation doesn't play well behind Cloudflare's proxy.
+- [x] Domain cutover complete — DNS no longer points at the old WordPress site
+
+## DNS notes (Cloudflare)
+- Only two DNS records route to the website: root `A`/`CNAME` and `www` `CNAME`, both now pointing to `victorious-plant-0b639df10.7.azurestaticapps.net`, proxy status **DNS only**.
+- Everything else in the zone (MX, autodiscover, DKIM `selector1`/`selector2`/`litesrv`, `ml.*`) is Office 365 email and MailerLite — unrelated to the site, don't touch.
+- Old WordPress hosting still exists at `mybenfranklinpta.azurewebsites.net` (Azure App Service) but no longer receives traffic from the domain. Being kept temporarily to mine old content before decommissioning.
 
 ## Deploy workflow (for future changes)
 Every push to `main` auto-deploys via GitHub Actions — no manual Azure steps needed for routine content updates. After editing `content/*.md` or other source files, run `node build.js` to regenerate `public/`, then commit both source and `public/` and push.

@@ -25,11 +25,14 @@ Old site: mybenfranklinpta.org (WordPress, mascot: Eagles). Contact: communicati
 
 ## Deployment status
 - [x] Homepage + stub pages built and verified locally
-- [x] Committed to git locally and handed off via a git bundle (network in the previous session couldn't reach github.com directly)
-- [ ] Verify the push landed: check https://github.com/parkison/ben-franklin-pta-site has the commit "Initial PTA site: homepage with nav, hero banner, stub pages" — if not, the bundle is sitting locally and needs `git push -u origin main` run from wherever it was cloned
-- [ ] Azure Static Web App — not created yet. Needs: new Static Web App resource, Free plan, GitHub deployment source linked to the repo above, branch `main`, build preset "Custom", app location `/public`, api location blank, output location blank
-- [ ] Custom domain — Ben already owns the domain and has full Azure access/credit. Once the Static Web App is live, add the domain via Azure Portal > Custom domains and follow the DNS instructions Azure gives
-- [ ] Keep the old WordPress site (mybenfranklinpta.org) live until the new site is verified on its temporary `*.azurestaticapps.net` URL, then cut the domain over
+- [x] Committed and pushed to `github.com/parkison/ben-franklin-pta-site` (`main`)
+- [x] Azure Static Web App created (Free plan), linked to the repo via GitHub Actions (`.github/workflows/azure-static-web-apps-victorious-plant-0b639df10.yml`). Workflow uploads the pre-built `/public` directly — no build command, api/output locations blank. Every push to `main` auto-deploys.
+- [x] Verified live on the temporary `*.azurestaticapps.net` URL
+- [ ] Custom domain — Ben already owns the domain and has full Azure access/credit. Add it via Azure Portal > Custom domains and follow the DNS instructions Azure gives
+- [ ] Keep the old WordPress site (mybenfranklinpta.org) live until the domain is cut over to the new site
+
+## Deploy workflow (for future changes)
+Every push to `main` auto-deploys via GitHub Actions — no manual Azure steps needed for routine content updates. After editing `content/*.md` or other source files, run `node build.js` to regenerate `public/`, then commit both source and `public/` and push.
 
 ## Notes / gotchas
 - Images: drop files in `assets/images/`, reference via `![alt text](assets/images/file.jpg)` in markdown. For a full-width banner instead of an inline image, use the `hero` + `hero_alt` frontmatter fields on that page instead of an inline `![]()`.

@@ -28,7 +28,11 @@ const NAV = [
   {
     type: "dropdown",
     label: "Programs",
-    children: [{ type: "page", slug: "math-challenge" }],
+    children: [
+      { type: "page", slug: "math-enrichment" },
+      { type: "page", slug: "math-challenge" },
+      { type: "page", slug: "math-contest" },
+    ],
   },
   {
     type: "dropdown",

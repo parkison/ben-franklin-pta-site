@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PTA Mission · Ben Franklin PTA</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="index.html">Ben Franklin PTA</a>
+      <nav class="site-nav">
+        <ul>
+        <li class="nav-dropdown has-current">
+          <button type="button" class="nav-dropdown-toggle" aria-haspopup="true" aria-expanded="false">About</button>
+          <ul class="dropdown-menu">
+          <li><a href="mission.html" aria-current="page">PTA Mission</a></li>
+          <li><a href="board.html">Board</a></li>
+          <li><a href="standing-rules.html">Standing Rules</a></li>
+          </ul>
+        </li>
+        <li class="nav-dropdown">
+          <button type="button" class="nav-dropdown-toggle" aria-haspopup="true" aria-expanded="false">Get Involved</button>
+          <ul class="dropdown-menu">
+          <li><a href="https://mybenfranklinpta.givebacks.com/shop" target="_blank" rel="noopener">Join the PTA</a></li>
+          <li><a href="volunteering.html">Volunteer</a></li>
+          </ul>
+        </li>
+        <li><a href="calendar.html">Calendar</a></li>
+        <li class="nav-dropdown">
+          <button type="button" class="nav-dropdown-toggle" aria-haspopup="true" aria-expanded="false">Programs</button>
+          <ul class="dropdown-menu">
+          <li><a href="math-challenge.html">Math Challenge</a></li>
+          </ul>
+        </li>
+        <li class="nav-dropdown">
+          <button type="button" class="nav-dropdown-toggle" aria-haspopup="true" aria-expanded="false">Resource</button>
+          <ul class="dropdown-menu">
+          <li><a href="forms.html">Forms</a></li>
+          <li><a href="photos.html">Photos</a></li>
+          </ul>
+        </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  
+
+  <main class="content">
+    <h1>We Strive to Enrich the Education of Every Student</h1>
+<p>The Ben Franklin PTA (Parent Teacher Association) is a nonprofit organization that supports our students, teachers, and staff through enrichment programs, events, and financial grants. We are affiliated with the Lake Washington PTSA Council, which represents all of the PTAs in the Lake Washington School District, and the Washington State PTA (WSPTA), which advocates for the education, health, welfare, and safety of all children in Washington State.</p>
+<p>Board positions span the school year, but many committee positions do not require a full year commitment; they are tied to a specific activity or event. We promise you will have fun, meet new people, and there's a lot of support to help you! <a href="board.html">Click here to read more about each role on the PTA</a> and how it impacts Franklin students. Let us know via email at <a href="mailto:connect@mybenfranklinpta.org">connect@mybenfranklinpta.org</a> if you're interested!</p>
+<p><a href="board.html">Learn more about PTA Board Member Positions</a></p>
+<p>Each year, parents take on the role of chairpersons for our events and activities. These are not board positions; you can work on them in your own time, with a friend/s to share the workload, and we can connect you with people who've done the role in the past for guidance. If any of these sound interesting, please reach out to <a href="mailto:connect@mybenfranklinpta.org">connect@mybenfranklinpta.org</a> to get more information.</p>
+<h2>What does the PTA do?</h2>
+<p>Each year we raise funds for events, programs, and financial grants that are not covered by local and state funding. Here are just a few of the things that the Ben Franklin PTA has funded in recent years:</p>
+<ul>
+<li>Virtual learning supplies</li>
+<li>Laptops for the Learning Center</li>
+<li>Gaga ball pit</li>
+<li>Virtual field trips</li>
+<li>Computer cart (with charging) for the library</li>
+<li>Standing desks for 5th graders</li>
+<li>iPads and durable cases for the learning center</li>
+<li>Die cuts in the copy room (for bulletin board décor and lettering)</li>
+<li>Sensory Path in the hallway by the main office</li>
+<li>Basketball hoop for all abilities</li>
+<li>A thermometer for the health room</li>
+<li>Emergency clothing for accidents</li>
+<li>Clay for art projects</li>
+<li>Art supplies for the Art Docent program</li>
+<li>Cold & Flu supplies for classrooms</li>
+<li>Teacher budgets for classroom supplies</li>
+<li>PE Supplies</li>
+<li>Music supplies</li>
+<li>And so much more!</li>
+</ul>
+<p>Please join us and make a difference in the lives of all students at Franklin!</p>
+<h2>About the Washington State PTA</h2>
+<p>Founded in 1905, the Washington Congress of Parents and Teachers, now known as the Washington State Parent Teacher Association (WSPTA), is the largest non-profit, volunteer organization in Washington. As the premier parent organization, with more than 125,000 members in more than 875 local PTAs, the association is an innovative, forward-thinking and effective advocate for children.</p>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Ben Franklin PTA &middot; <a href="mailto:communications@mybenfranklinpta.org">communications@mybenfranklinpta.org</a> &middot; <a href="https://www.facebook.com/mybenfranklinpta">Facebook</a></p>
+  </footer>
+
+  <script>
+    document.querySelectorAll(".nav-dropdown-toggle").forEach(function (btn) {
+      btn.addEventListener("click", function (e) {
+        e.stopPropagation();
+        var li = btn.closest(".nav-dropdown");
+        var isOpen = li.classList.contains("open");
+        document.querySelectorAll(".nav-dropdown.open").forEach(function (el) {
+          el.classList.remove("open");
+          el.querySelector(".nav-dropdown-toggle").setAttribute("aria-expanded", "false");
+        });
+        if (!isOpen) {
+          li.classList.add("open");
+          btn.setAttribute("aria-expanded", "true");
+        }
+      });
+    });
+    document.addEventListener("click", function () {
+      document.querySelectorAll(".nav-dropdown.open").forEach(function (el) {
+        el.classList.remove("open");
+        el.querySelector(".nav-dropdown-toggle").setAttribute("aria-expanded", "false");
+      });
+    });
+  </script>
+</body>
+</html>

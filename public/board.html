@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Board · Ben Franklin PTA</title>
+  <title>Board · Ben Franklin PTA</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -11,12 +11,37 @@
     <div class="header-inner">
       <a class="brand" href="index.html">Ben Franklin PTA</a>
       <nav class="site-nav">
-      <a href="index.html">Home</a>
-      <a href="programs.html">Programs</a>
-      <a href="volunteering.html">Volunteering</a>
-      <a href="board.html" aria-current="page">The Board</a>
-      <a href="standing-rules.html">Standing Rules</a>
-      <a href="calendar.html">Calendar</a>
+        <ul>
+        <li class="nav-dropdown has-current">
+          <button type="button" class="nav-dropdown-toggle" aria-haspopup="true" aria-expanded="false">About</button>
+          <ul class="dropdown-menu">
+          <li><a href="mission.html">PTA Mission</a></li>
+          <li><a href="board.html" aria-current="page">Board</a></li>
+          <li><a href="standing-rules.html">Standing Rules</a></li>
+          </ul>
+        </li>
+        <li class="nav-dropdown">
+          <button type="button" class="nav-dropdown-toggle" aria-haspopup="true" aria-expanded="false">Get Involved</button>
+          <ul class="dropdown-menu">
+          <li><a href="https://mybenfranklinpta.givebacks.com/shop" target="_blank" rel="noopener">Join the PTA</a></li>
+          <li><a href="volunteering.html">Volunteer</a></li>
+          </ul>
+        </li>
+        <li><a href="calendar.html">Calendar</a></li>
+        <li class="nav-dropdown">
+          <button type="button" class="nav-dropdown-toggle" aria-haspopup="true" aria-expanded="false">Programs</button>
+          <ul class="dropdown-menu">
+          <li><a href="math-challenge.html">Math Challenge</a></li>
+          </ul>
+        </li>
+        <li class="nav-dropdown">
+          <button type="button" class="nav-dropdown-toggle" aria-haspopup="true" aria-expanded="false">Resource</button>
+          <ul class="dropdown-menu">
+          <li><a href="forms.html">Forms</a></li>
+          <li><a href="photos.html">Photos</a></li>
+          </ul>
+        </li>
+        </ul>
       </nav>
     </div>
   </header>
@@ -24,13 +49,36 @@
   
 
   <main class="content">
-    <h1>The Board</h1>
-<p>Meet the Ben Franklin PTA Board — officer names, roles, and contact info coming soon.</p>
+    <p><img src="assets/images/board.jpg" alt="Meet Our PTA Board 2025-2026"></p>
 
   </main>
 
   <footer class="site-footer">
     <p>Ben Franklin PTA &middot; <a href="mailto:communications@mybenfranklinpta.org">communications@mybenfranklinpta.org</a> &middot; <a href="https://www.facebook.com/mybenfranklinpta">Facebook</a></p>
   </footer>
+
+  <script>
+    document.querySelectorAll(".nav-dropdown-toggle").forEach(function (btn) {
+      btn.addEventListener("click", function (e) {
+        e.stopPropagation();
+        var li = btn.closest(".nav-dropdown");
+        var isOpen = li.classList.contains("open");
+        document.querySelectorAll(".nav-dropdown.open").forEach(function (el) {
+          el.classList.remove("open");
+          el.querySelector(".nav-dropdown-toggle").setAttribute("aria-expanded", "false");
+        });
+        if (!isOpen) {
+          li.classList.add("open");
+          btn.setAttribute("aria-expanded", "true");
+        }
+      });
+    });
+    document.addEventListener("click", function () {
+      document.querySelectorAll(".nav-dropdown.open").forEach(function (el) {
+        el.classList.remove("open");
+        el.querySelector(".nav-dropdown-toggle").setAttribute("aria-expanded", "false");
+      });
+    });
+  </script>
 </body>
 </html>

@@ -11,12 +11,37 @@
     <div class="header-inner">
       <a class="brand" href="index.html">Ben Franklin PTA</a>
       <nav class="site-nav">
-      <a href="index.html" aria-current="page">Home</a>
-      <a href="programs.html">Programs</a>
-      <a href="volunteering.html">Volunteering</a>
-      <a href="board.html">The Board</a>
-      <a href="standing-rules.html">Standing Rules</a>
-      <a href="calendar.html">Calendar</a>
+        <ul>
+        <li class="nav-dropdown">
+          <button type="button" class="nav-dropdown-toggle" aria-haspopup="true" aria-expanded="false">About</button>
+          <ul class="dropdown-menu">
+          <li><a href="mission.html">PTA Mission</a></li>
+          <li><a href="board.html">Board</a></li>
+          <li><a href="standing-rules.html">Standing Rules</a></li>
+          </ul>
+        </li>
+        <li class="nav-dropdown">
+          <button type="button" class="nav-dropdown-toggle" aria-haspopup="true" aria-expanded="false">Get Involved</button>
+          <ul class="dropdown-menu">
+          <li><a href="https://mybenfranklinpta.givebacks.com/shop" target="_blank" rel="noopener">Join the PTA</a></li>
+          <li><a href="volunteering.html">Volunteer</a></li>
+          </ul>
+        </li>
+        <li><a href="calendar.html">Calendar</a></li>
+        <li class="nav-dropdown">
+          <button type="button" class="nav-dropdown-toggle" aria-haspopup="true" aria-expanded="false">Programs</button>
+          <ul class="dropdown-menu">
+          <li><a href="math-challenge.html">Math Challenge</a></li>
+          </ul>
+        </li>
+        <li class="nav-dropdown">
+          <button type="button" class="nav-dropdown-toggle" aria-haspopup="true" aria-expanded="false">Resource</button>
+          <ul class="dropdown-menu">
+          <li><a href="forms.html">Forms</a></li>
+          <li><a href="photos.html">Photos</a></li>
+          </ul>
+        </li>
+        </ul>
       </nav>
     </div>
   </header>
@@ -25,17 +50,19 @@
 
   <main class="content">
     <h1>Welcome Back, Eagles!</h1>
-<p>The Ben Franklin PTA is excited to welcome all new and returning families for the <strong>2025–2026 school year</strong>. We've been working behind the scenes to make this a great year for our students, staff, and the whole Franklin community — we're glad you're here!</p>
-<p>There are lots of ways to get involved: <a href="https://mybenfranklinpta.givebacks.com/store?limit=21&live=true">join the PTA</a>, <a href="volunteering.html">volunteer your time</a>, or sign up for our <a href="https://preview.mailerlite.io/preview/115949/sites/65652971863540944/benfranklinpta">newsletter</a> to stay in the loop.</p>
+<p>We are excited to welcome all new and returning families to Ben Franklin for the <strong>2026–2027 school year</strong>! The Ben Franklin PTA has been working hard behind-the-scenes to prepare for a great year for all students, staff, and the Franklin community. We're so glad you're here and look forward to meeting you!</p>
+<p>The Ben Franklin PTA is looking forward to continuing to support the Franklin community this year. We have many ways that you can get involved – join the PTA, <a href="volunteering.html">volunteer your time</a>, donate funds, and sign up for our mailing list and Facebook page to stay informed about what the PTA is up to and opportunities for you to get involved.</p>
 <h2>Announcements</h2>
+<p><strong>PTA Playdates in August!</strong> Join other Franklin families at the Ben Franklin playground:</p>
 <ul>
-<li><strong>[Sample] Fall Fundraiser kicks off soon</strong> — details coming shortly. <em>(Replace me with real content — just send it over!)</em></li>
-<li><strong>[Sample] Volunteers needed for Reflections Art Competition</strong> — see the Volunteering page for how to sign up. <em>(Replace me with real content!)</em></li>
+<li>Thursday, August 6: 4:00–6:00 p.m.</li>
+<li>Thursday, August 13: 1:00–2:00 p.m.</li>
+<li>Thursday, August 20: 4:00–6:00 p.m.</li>
+<li>Thursday, August 27: 4:00–5:00 p.m.</li>
 </ul>
+<p>Soak up the sunshine while you get to know other Franklin families, or maybe catch up with familiar faces. You can even ask questions about the upcoming school year to your PTA board while your child plays. Don't forget your water bottles! Snacks, water, and juice will be available from the PTA. Reminder: the restrooms at school are unavailable, so please have your child use the toilet before attending the playdate.</p>
 <h2>Get Involved</h2>
 <ul>
-<li><a href="https://mybenfranklinpta.givebacks.com/store?limit=21&live=true">Join the PTA</a></li>
-<li><a href="https://preview.mailerlite.io/preview/115949/sites/65652971863540944/benfranklinpta">Sign up for the Newsletter</a></li>
 <li><a href="volunteering.html">Volunteer Opportunities</a></li>
 </ul>
 
@@ -44,5 +71,29 @@
   <footer class="site-footer">
     <p>Ben Franklin PTA &middot; <a href="mailto:communications@mybenfranklinpta.org">communications@mybenfranklinpta.org</a> &middot; <a href="https://www.facebook.com/mybenfranklinpta">Facebook</a></p>
   </footer>
+
+  <script>
+    document.querySelectorAll(".nav-dropdown-toggle").forEach(function (btn) {
+      btn.addEventListener("click", function (e) {
+        e.stopPropagation();
+        var li = btn.closest(".nav-dropdown");
+        var isOpen = li.classList.contains("open");
+        document.querySelectorAll(".nav-dropdown.open").forEach(function (el) {
+          el.classList.remove("open");
+          el.querySelector(".nav-dropdown-toggle").setAttribute("aria-expanded", "false");
+        });
+        if (!isOpen) {
+          li.classList.add("open");
+          btn.setAttribute("aria-expanded", "true");
+        }
+      });
+    });
+    document.addEventListener("click", function () {
+      document.querySelectorAll(".nav-dropdown.open").forEach(function (el) {
+        el.classList.remove("open");
+        el.querySelector(".nav-dropdown-toggle").setAttribute("aria-expanded", "false");
+      });
+    });
+  </script>
 </body>
 </html>

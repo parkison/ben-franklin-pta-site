@@ -41,13 +41,22 @@ body {
   letter-spacing: 0.02em;
 }
 
-.site-nav {
+.site-nav > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
   display: flex;
   flex-wrap: wrap;
   gap: 1.25rem;
+  align-items: center;
 }
 
-.site-nav a {
+.site-nav li {
+  position: relative;
+}
+
+.site-nav a,
+.nav-dropdown-toggle {
   color: #f4f4f4;
   text-decoration: none;
   font-size: 0.95rem;
@@ -56,10 +65,58 @@ body {
   border-bottom: 2px solid transparent;
 }
 
+.nav-dropdown-toggle {
+  background: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  font-family: inherit;
+  cursor: pointer;
+  padding-left: 0;
+  padding-right: 0;
+}
+
 .site-nav a:hover,
-.site-nav a[aria-current="page"] {
+.site-nav a[aria-current="page"],
+.nav-dropdown-toggle:hover,
+.nav-dropdown.has-current > .nav-dropdown-toggle {
   border-bottom-color: var(--pta-gold);
   color: #fff;
+}
+
+.dropdown-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0.5rem 0;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: var(--pta-blue);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 6px;
+  min-width: 190px;
+  display: none;
+  z-index: 20;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+.dropdown-menu a {
+  display: block;
+  padding: 0.5rem 1rem;
+  border-bottom: none;
+  white-space: nowrap;
+}
+
+.dropdown-menu a:hover,
+.dropdown-menu a[aria-current="page"] {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+}
+
+.nav-dropdown:hover > .dropdown-menu,
+.nav-dropdown:focus-within > .dropdown-menu,
+.nav-dropdown.open > .dropdown-menu {
+  display: block;
 }
 
 

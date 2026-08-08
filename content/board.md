@@ -1,8 +1,6 @@
 ---
-title: The Board
-nav: The Board
+title: Board
+nav: Board
 slug: board
 ---
-# The Board
-
-Meet the Ben Franklin PTA Board — officer names, roles, and contact info coming soon.
+![Meet Our PTA Board 2025-2026](assets/images/board.jpg)

@@ -6,6 +6,40 @@ const CONTENT_DIR = path.join(__dirname, "content");
 const PUBLIC_DIR = path.join(__dirname, "public");
 const ASSETS_DIR = path.join(__dirname, "assets");
 
+const NAV = [
+  {
+    type: "dropdown",
+    label: "About",
+    children: [
+      { type: "page", slug: "mission" },
+      { type: "page", slug: "board" },
+      { type: "page", slug: "standing-rules" },
+    ],
+  },
+  {
+    type: "dropdown",
+    label: "Get Involved",
+    children: [
+      { type: "external", label: "Join the PTA", href: "https://mybenfranklinpta.givebacks.com/shop" },
+      { type: "page", slug: "volunteering" },
+    ],
+  },
+  { type: "page", slug: "calendar" },
+  {
+    type: "dropdown",
+    label: "Programs",
+    children: [{ type: "page", slug: "math-challenge" }],
+  },
+  {
+    type: "dropdown",
+    label: "Resource",
+    children: [
+      { type: "page", slug: "forms" },
+      { type: "page", slug: "photos" },
+    ],
+  },
+];
+
 function copyRecursive(src, dest) {
   if (!fs.existsSync(src)) return;
   fs.mkdirSync(dest, { recursive: true });
@@ -35,17 +69,43 @@ const pages = files.map((file) => {
   };
 });
 
-const order = ["Home", "Programs", "Volunteering", "The Board", "Standing Rules", "Calendar"];
-pages.sort((a, b) => order.indexOf(a.nav) - order.indexOf(b.nav));
+const pageBySlug = new Map(pages.map((p) => [p.slug, p]));
+
+function pageHref(slug) {
+  return slug === "index" ? "index.html" : `${slug}.html`;
+}
+
+function renderChildLink(item, currentSlug) {
+  if (item.type === "external") {
+    return `<a href="${item.href}" target="_blank" rel="noopener">${item.label}</a>`;
+  }
+  const p = pageBySlug.get(item.slug);
+  const current = p.slug === currentSlug ? ' aria-current="page"' : "";
+  return `<a href="${pageHref(p.slug)}"${current}>${p.nav}</a>`;
+}
+
+function renderTopNav(currentSlug) {
+  return NAV.map((item) => {
+    if (item.type === "page") {
+      const p = pageBySlug.get(item.slug);
+      const current = p.slug === currentSlug ? ' aria-current="page"' : "";
+      return `<li><a href="${pageHref(p.slug)}"${current}>${p.nav}</a></li>`;
+    }
+    const hasCurrent = item.children.some((c) => c.type === "page" && c.slug === currentSlug);
+    const childrenHtml = item.children
+      .map((c) => `<li>${renderChildLink(c, currentSlug)}</li>`)
+      .join("\n          ");
+    return `<li class="nav-dropdown${hasCurrent ? " has-current" : ""}">
+          <button type="button" class="nav-dropdown-toggle" aria-haspopup="true" aria-expanded="false">${item.label}</button>
+          <ul class="dropdown-menu">
+          ${childrenHtml}
+          </ul>
+        </li>`;
+  }).join("\n        ");
+}
 
 function layout(page) {
-  const navLinks = pages
-    .map((p) => {
-      const href = `${p.slug === "index" ? "index" : p.slug}.html`;
-      const current = p.slug === page.slug ? ' aria-current="page"' : "";
-      return `<a href="${href}"${current}>${p.nav}</a>`;
-    })
-    .join("\n      ");
+  const navLinks = renderTopNav(page.slug);
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -60,7 +120,9 @@ function layout(page) {
     <div class="header-inner">
       <a class="brand" href="index.html">Ben Franklin PTA</a>
       <nav class="site-nav">
-      ${navLinks}
+        <ul>
+        ${navLinks}
+        </ul>
       </nav>
     </div>
   </header>
@@ -74,6 +136,30 @@ function layout(page) {
   <footer class="site-footer">
     <p>Ben Franklin PTA &middot; <a href="mailto:communications@mybenfranklinpta.org">communications@mybenfranklinpta.org</a> &middot; <a href="https://www.facebook.com/mybenfranklinpta">Facebook</a></p>
   </footer>
+
+  <script>
+    document.querySelectorAll(".nav-dropdown-toggle").forEach(function (btn) {
+      btn.addEventListener("click", function (e) {
+        e.stopPropagation();
+        var li = btn.closest(".nav-dropdown");
+        var isOpen = li.classList.contains("open");
+        document.querySelectorAll(".nav-dropdown.open").forEach(function (el) {
+          el.classList.remove("open");
+          el.querySelector(".nav-dropdown-toggle").setAttribute("aria-expanded", "false");
+        });
+        if (!isOpen) {
+          li.classList.add("open");
+          btn.setAttribute("aria-expanded", "true");
+        }
+      });
+    });
+    document.addEventListener("click", function () {
+      document.querySelectorAll(".nav-dropdown.open").forEach(function (el) {
+        el.classList.remove("open");
+        el.querySelector(".nav-dropdown-toggle").setAttribute("aria-expanded", "false");
+      });
+    });
+  </script>
 </body>
 </html>
 `;
@@ -83,7 +169,7 @@ fs.mkdirSync(PUBLIC_DIR, { recursive: true });
 fs.mkdirSync(path.join(PUBLIC_DIR, "css"), { recursive: true });
 
 for (const page of pages) {
-  const outName = page.slug === "index" ? "index.html" : `${page.slug}.html`;
+  const outName = pageHref(page.slug);
   fs.writeFileSync(path.join(PUBLIC_DIR, outName), layout(page));
   console.log("wrote", outName);
 }

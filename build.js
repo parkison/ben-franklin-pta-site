@@ -20,7 +20,7 @@ const NAV = [
     type: "dropdown",
     label: "Get Involved",
     children: [
-      { type: "external", label: "Join the PTA", href: "https://mybenfranklinpta.givebacks.com/shop" },
+      { type: "page", slug: "membership" },
       { type: "page", slug: "volunteering" },
     ],
   },

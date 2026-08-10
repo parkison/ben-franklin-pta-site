@@ -9,6 +9,30 @@ We'd love your help! Volunteer sign-ups are managed through SignUp Genius. Curre
 
 ## Kindergarten Welcome Table — August 12–13
 
+![Welcome to Kindergarten](assets/images/welcome-kindergarten.png)
+
 Help answer questions from incoming kindergarten families — things like how to register for school transportation and other back-to-school logistics. Two 2.5-hour slots are needed each day; if those times don't work for you, reach out and we can look at splitting the shifts further.
 
 [Sign up on SignUp Genius](https://www.signupgenius.com/go/5080B44ADAD2BA4F58-65013897-kindergarten#/)
+
+## Campus Clean-Up Party — Tuesday, August 25, 5:00–7:30 p.m.
+
+![Outdoor Cleanup](assets/images/outdoor-cleanup.png)
+
+Kids head back on August 31st, and our campus could use some love before then! We'll be weeding, pruning, planting, sweeping, spreading wood chips, and more — there are jobs for adults and kids alike. If you have them, bring gardening gloves, rakes, brooms, leaf blowers, or yard waste bags (label them with your name). Pizza and treats for all our helpers afterward.
+
+[Sign up on SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65074424-campus)
+
+## Ice Cream Social — Thursday, August 27, 3:00 p.m.
+
+![Ice Cream Social](assets/images/ice-cream-social.png)
+
+Help us run the booths at our back-to-school Ice Cream Social — membership sign-ups, spiritwear, a community art activity, and the ice cream booth itself.
+
+[Sign up on SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65066838-icecream)
+
+## Board and Chairperson Positions
+
+We can always use more willing hands! Consider joining our board or chairing one of our many committee positions for the 2026–2027 school year. Not sure what would be a good fit? Reach out to [president@mybenfranklinpta.org](mailto:president@mybenfranklinpta.org) — we're happy to chat by phone, email, or in person.
+
+See the [Board page](board.html) for more about board roles, or reach out about chairperson positions.

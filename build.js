@@ -56,7 +56,7 @@ function parseCsv(raw) {
   });
 }
 
-const LINK_CATEGORY_LABELS = { photos: "Photo Sharing" };
+const LINK_CATEGORY_LABELS = { photos: "Photo Sharing", important: "Important Links" };
 
 function renderLinksSection() {
   const csvPath = path.join(CONTENT_DIR, "links.csv");

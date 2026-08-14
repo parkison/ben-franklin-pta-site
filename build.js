@@ -56,7 +56,8 @@ function parseCsv(raw) {
   });
 }
 
-const LINK_CATEGORY_LABELS = { photos: "Photo Sharing", important: "Important Links" };
+const LINK_CATEGORY_LABELS = { important: "Important Links", photos: "Photo Sharing" };
+const LINK_CATEGORY_ORDER = ["important", "photos"];
 
 function renderLinksSection() {
   const csvPath = path.join(CONTENT_DIR, "links.csv");
@@ -68,8 +69,17 @@ function renderLinksSection() {
     if (!byCategory.has(cat)) byCategory.set(cat, []);
     byCategory.get(cat).push(row);
   }
+  const categories = [...byCategory.keys()].sort((a, b) => {
+    const ai = LINK_CATEGORY_ORDER.indexOf(a);
+    const bi = LINK_CATEGORY_ORDER.indexOf(b);
+    if (ai === -1 && bi === -1) return 0;
+    if (ai === -1) return 1;
+    if (bi === -1) return -1;
+    return ai - bi;
+  });
   let html = "";
-  for (const [cat, items] of byCategory) {
+  for (const cat of categories) {
+    const items = byCategory.get(cat);
     const label = LINK_CATEGORY_LABELS[cat] || cat;
     html += `<h2>${label}</h2>\n<ul class="link-grid">\n`;
     for (const item of items) {

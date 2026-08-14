@@ -15,10 +15,24 @@ Signups and newsletters are handled by separate external tools (SignUp Genius, M
 - All internal links and asset paths are relative (no leading `/`), so the site also works by double-clicking `public/index.html` locally — no server needed.
 
 ## Current pages
-- **Home** (`content/home.md`) — hero banner image, welcome text, an Announcements section with two placeholder entries marked `[Sample]` that need replacing with real content, and quick links (join PTA, newsletter, volunteer).
-- **Programs, Volunteering, The Board, Standing Rules, Calendar** — stub pages, "coming soon" placeholders, exist so the nav isn't broken. Not yet built out.
+- **Home** (`content/home.md`) — hero banner image, welcome text, an Announcements section, and Get Involved quick links.
+- **About ▾** — Mission (`mission.md`), The Board (`board.md`), Standing Rules (`standing-rules.md`).
+- **Get Involved ▾** — Membership (`membership.md`, has a `.btn`-styled Join Now CTA), Volunteering (`volunteering.md`).
+- **Calendar** (`calendar.md`) — top-level nav item, not in a dropdown.
+- **Programs ▾** — Math Enrichment, Math Challenge, Math Contest.
+- **Resource ▾** — Forms (`forms.md`), Photos (`photos.md`, still a stub), Links (`links.md` + `links.csv` — see "Data-driven pages" below).
 
-Nav order is fixed in `build.js`: Home, Programs, Volunteering, The Board, Standing Rules, Calendar.
+Nav structure (dropdowns and their order) is defined in the `NAV` array at the top of `build.js` — that array is the source of truth, not this list. When adding a page, add both a `content/<slug>.md` file and an entry in `NAV`, or it won't appear in the header.
+
+## Data-driven pages (CSV-backed content)
+Some pages need structured, repeating data (title + link + image) rather than prose — the current example is the **Links** page (QR codes for photo-sharing links, etc.). Pattern:
+- `content/links.md` holds only the intro copy (plain markdown, rendered normally).
+- `content/links.csv` holds the rows: `category,title,link,qrcode` — `qrcode` is a filename looked up in `assets/images/qrcodes/`.
+- `build.js` has a `renderLinksSection()` function that reads the CSV directly and generates the card-grid HTML, appended to the links page's body when `slug === "links"`. This bypasses the markdown inliner entirely.
+- **Why not just write the HTML in the markdown file:** the hand-rolled markdown inliner in `lib/md.js` has an `_..._` → `<em>` regex with no escaping, and it runs on raw text indiscriminately — it will mangle underscores inside filenames and SharePoint URLs (both of which are underscore-heavy) if raw HTML is embedded directly in a `.md` file. Learned this the hard way; keep structured/link-heavy data in a CSV read directly by `build.js`, not inline HTML in markdown.
+- Section ordering on the page is controlled by `LINK_CATEGORY_ORDER` in `build.js` (not CSV row order) — add new categories there to control where they appear. Section headings come from `LINK_CATEGORY_LABELS`.
+- **To add a new link:** append a row to `content/links.csv` and drop the matching image in `assets/images/qrcodes/`, then `node build.js`. No code changes needed unless it's a new category.
+- Ben's `staged/` folder (gitignored) is where he drops raw files — CSVs, QR PNGs, PDFs — for Claude to pull in; it's a scratch inbox, not part of the deployed site.
 
 ## Content mined from the old site (for filling in future pages)
 Old site: mybenfranklinpta.org (WordPress, mascot: Eagles). Contact: communications@mybenfranklinpta.org. Facebook: facebook.com/mybenfranklinpta. Newsletter signup via MailerLite. Join/donate via a Givebacks store. Programs listed on old site: Fall Fundraiser, Math Enrichment, Math Challenge, Math Contests, Reflections (art competition). Volunteering is coordinated externally via SignUp Genius — the Volunteering page should just link out to it once Ben has the link.
@@ -43,3 +57,4 @@ Every push to `main` auto-deploys via GitHub Actions — no manual Azure steps n
 - Images: drop files in `assets/images/`, reference via `![alt text](assets/images/file.jpg)` in markdown. For a full-width banner instead of an inline image, use the `hero` + `hero_alt` frontmatter fields on that page instead of an inline `![]()`.
 - `.content img` CSS constrains normal inline images to the content column (max 100% width). `.hero` CSS handles full-bleed banners (380px tall, `object-fit: cover`).
 - No node_modules or npm dependencies anywhere in this repo — please keep it that way.
+- Prominent call-to-action links (e.g. "Join Now" on the membership page) use `<a href="..." class="btn">Text</a>` written directly as an HTML line in the markdown body — this one construct is safe because it has no underscores/asterisks to trip the inliner. Style is in `css/style.css` under `.content a.btn`. Reuse this class for future CTA buttons rather than adding new one-off styles.

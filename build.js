@@ -40,9 +40,48 @@ const NAV = [
     children: [
       { type: "page", slug: "forms" },
       { type: "page", slug: "photos" },
+      { type: "page", slug: "links" },
     ],
   },
 ];
+
+function parseCsv(raw) {
+  const lines = raw.trim().split("\n");
+  const headers = lines[0].split(",").map((h) => h.trim());
+  return lines.slice(1).map((line) => {
+    const cells = line.split(",").map((c) => c.trim());
+    const row = {};
+    headers.forEach((h, i) => (row[h] = cells[i]));
+    return row;
+  });
+}
+
+const LINK_CATEGORY_LABELS = { photos: "Photo Sharing" };
+
+function renderLinksSection() {
+  const csvPath = path.join(CONTENT_DIR, "links.csv");
+  if (!fs.existsSync(csvPath)) return "";
+  const rows = parseCsv(fs.readFileSync(csvPath, "utf8"));
+  const byCategory = new Map();
+  for (const row of rows) {
+    const cat = row.category || "Links";
+    if (!byCategory.has(cat)) byCategory.set(cat, []);
+    byCategory.get(cat).push(row);
+  }
+  let html = "";
+  for (const [cat, items] of byCategory) {
+    const label = LINK_CATEGORY_LABELS[cat] || cat;
+    html += `<h2>${label}</h2>\n<ul class="link-grid">\n`;
+    for (const item of items) {
+      const qr = item.qrcode
+        ? `<img src="assets/images/qrcodes/${item.qrcode}" alt="QR code for ${item.title}">`
+        : "";
+      html += `  <li class="link-card">${qr}<a href="${item.link}">${item.title}</a></li>\n`;
+    }
+    html += `</ul>\n`;
+  }
+  return html;
+}
 
 function copyRecursive(src, dest) {
   if (!fs.existsSync(src)) return;
@@ -69,7 +108,7 @@ const pages = files.map((file) => {
     slug: data.slug || file.replace(/\.md$/, ""),
     hero: data.hero || null,
     heroAlt: data.hero_alt || data.title || "",
-    html: mdToHtml(body),
+    html: mdToHtml(body) + (data.slug === "links" ? renderLinksSection() : ""),
   };
 });
 

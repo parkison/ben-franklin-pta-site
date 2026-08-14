@@ -22,6 +22,6 @@ Membership is low commitment. Members aren't required to attend meetings, serve 
 
 Membership scholarships are available — contact the school counselor or reach out to [president@mybenfranklinpta.org](mailto:president@mybenfranklinpta.org) for more information.
 
-[Join Now](https://mybenfranklinpta.givebacks.com/shop)
+<a href="https://mybenfranklinpta.givebacks.com/shop" class="btn">Join Now</a>
 
 See the [Calendar](calendar.html) for General Membership and Executive Board meeting dates.

@@ -15,8 +15,6 @@ The Franklin Reading Challenge is a **FREE** monthly reading program sponsored b
 
 Stay up to date on Reading Challenge details: [2026–2027 Franklin Reading Challenge Mailing List Sign-Up](https://forms.cloud.microsoft/r/UMRT9S5Rtq?origin=lprLink)
 
-![QR code to join the Reading Challenge mailing list](assets/images/qrcodes/reading-challenge-mailing-list.png)
-
 ## Prizes
 
 Prizes will be awarded to students who complete at least 4 reading challenges BEFORE each deadline! Thanks to our PTA, we're able to offer two levels of rewards for student participation:
@@ -28,13 +26,15 @@ Parents are also encouraged to reward their kids at home, as our prize budget ma
 
 ## Reading Challenge Schedule (all due dates 11:59 PM)
 
-- RC 1 — Realistic Fiction — Available 9/1/2026, due Fri 10/2/2026
-- RC 2 — Mystery or Scary Fiction — Available 10/1/2026, due Fri 11/6/2026
-- RC 3 — Biography & Autobiography — Available 11/1/2026, due Fri 12/4/2026
-- RC 4 — Non-Fiction — Available 12/1/2026, due Fri 1/8/2027
-- RC 5 — Fantasy Fiction — Available 1/1/2027, due Fri 2/5/2027
-- RC 6 — Science Fiction — Available 2/1/2027, due Fri 3/5/2027
-- RC 7 — Historical Fiction — Available 3/1/2027, due Fri 4/2/2027
+| Challenge | Reading Topic | Available | Due Date |
+| --- | --- | --- | --- |
+| RC 1 | Realistic Fiction | 9/1/2026 | Fri, 10/2/2026 |
+| RC 2 | Mystery or Scary Fiction | 10/1/2026 | Fri, 11/6/2026 |
+| RC 3 | Biography & Autobiography | 11/1/2026 | Fri, 12/4/2026 |
+| RC 4 | Non-Fiction | 12/1/2026 | Fri, 1/8/2027 |
+| RC 5 | Fantasy Fiction | 1/1/2027 | Fri, 2/5/2027 |
+| RC 6 | Science Fiction | 2/1/2027 | Fri, 3/5/2027 |
+| RC 7 | Historical Fiction | 3/1/2027 | Fri, 4/2/2027 |
 
 ## Questions?
 

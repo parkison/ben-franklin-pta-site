@@ -13,15 +13,12 @@ The Ben Franklin PTA is looking forward to continuing to support the Franklin co
 
 ## Announcements
 
-**Kindergarten Round-Up is August 12–13!** Our newest Franklin students will visit to meet their Kindergarten teachers. We need volunteers to check families in and help welcome students — [sign up here](https://www.signupgenius.com/go/5080B44ADAD2BA4F58-65013897-kindergarten#/).
-
 **Campus Clean-Up Party — Tuesday, August 25, 5:00–7:30 p.m.** Kids head back on August 31st, and our campus could use some love before then! Join us for weeding, pruning, planting, sweeping, and more — there are jobs for adults and kids alike. Pizza and treats for all our helpers afterward. [Volunteer here](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65074424-campus).
 
 **Ice Cream Social — Thursday, August 27, 3:00 p.m.** Free ice cream for kids (dairy and non-dairy options), plus PTA membership sign-ups, spiritwear, and a community art activity. We'd love your help running the booths — [volunteer here](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65066838-icecream).
 
 **PTA Playdates in August!** Join other Franklin families at the Ben Franklin playground:
 
-- Thursday, August 13: 1:00–2:00 p.m.
 - Thursday, August 20: 4:00–6:00 p.m.
 - Thursday, August 27: 4:00–5:00 p.m.
 

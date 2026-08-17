@@ -7,14 +7,20 @@ slug: calendar
 
 ## Upcoming Events
 
-- **August 12–13** — Kindergarten Round-Up ([volunteers needed](https://www.signupgenius.com/go/5080B44ADAD2BA4F58-65013897-kindergarten#/))
-- **August 13** — Playdate at Ben Franklin Playground, 1:00–2:00pm
 - **August 20** — Playdate at Ben Franklin Playground, 4:00–6:00pm
 - **August 25** — Campus Clean-Up Working Party, 5:00–7:30pm ([volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65074424-campus))
 - **August 27** — Playdate at Ben Franklin Playground, 4:00–5:00pm
 - **August 27** — Ice Cream Social, 3:00pm ([volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65066838-icecream))
 - **August 31** — First day of school
 - **September 30** — PTA membership renewal deadline (sign up for a chance at a class pizza party!)
+
+<details>
+<summary>Past Events</summary>
+
+- **August 12–13** — Kindergarten Round-Up
+- **August 13** — Playdate at Ben Franklin Playground, 1:00–2:00pm
+
+</details>
 
 ## General Membership Meetings
 

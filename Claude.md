@@ -53,8 +53,17 @@ Old site: mybenfranklinpta.org (WordPress, mascot: Eagles). Contact: communicati
 ## Deploy workflow (for future changes)
 Every push to `main` auto-deploys via GitHub Actions — no manual Azure steps needed for routine content updates. After editing `content/*.md` or other source files, run `node build.js` to regenerate `public/`, then commit both source and `public/` and push.
 
+## Time-based content maintenance
+Several pages carry date-bound events and go stale just from time passing, independent of any new content Ben sends. Whenever a session touches content (e.g. Ben forwards a new newsletter or asks for any content update), check today's date against these three and update as needed:
+- **Home page (`content/home.md`) Announcements section** — prune any announcement whose event date has passed. Only current/future items should show here.
+- **Calendar (`content/calendar.md`)** — move past dates out of "Upcoming Events" into the "Past Events" `<details>` block (collapsed by default — see the `<details>`/`<summary>` passthrough note below). Drop any "volunteers needed" link/text on an item once it's moved to Past Events, since the event's already happened.
+- **Volunteer page (`content/volunteering.md`)** — remove the section for any event that has already happened (SignUp Genius links go stale/irrelevant once the date passes).
+Ben's PTA newsletters (dropped in `staged/`) are a good cross-check for which events have passed, since he trims past events from each newsletter issue himself.
+
 ## Notes / gotchas
 - Images: drop files in `assets/images/`, reference via `![alt text](assets/images/file.jpg)` in markdown. For a full-width banner instead of an inline image, use the `hero` + `hero_alt` frontmatter fields on that page instead of an inline `![]()`.
 - `.content img` CSS constrains normal inline images to the content column (max 100% width). `.hero` CSS handles full-bleed banners (380px tall, `object-fit: cover`).
 - No node_modules or npm dependencies anywhere in this repo — please keep it that way.
 - Prominent call-to-action links (e.g. "Join Now" on the membership page) use `<a href="..." class="btn">Text</a>` written directly as an HTML line in the markdown body — this one construct is safe because it has no underscores/asterisks to trip the inliner. Style is in `css/style.css` under `.content a.btn`. Reuse this class for future CTA buttons rather than adding new one-off styles.
+- **Underscore filenames break inline images/links:** the `_..._` → `<em>` regex in `lib/md.js` runs indiscriminately after `![]()`/`[]()` are inlined, so a filename or URL with two-or-more underscores (e.g. `math_challenge_flyer.png`) gets mangled mid-path. Use hyphens in image filenames instead (`math-challenge-flyer.png`), not underscores.
+- `lib/md.js` also supports GFM-style pipe tables (`| a | b |` header + `| --- | --- |` separator row) and raw `<details>`/`<summary>`/`</details>` passthrough lines for native collapsible sections (used for the Calendar's Past Events block). Both are hand-rolled minimal parsers, not full markdown-table/HTML support — keep table cells and details content simple (no nested tags).

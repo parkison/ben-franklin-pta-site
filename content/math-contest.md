@@ -74,3 +74,5 @@ Math Is Cool is a competition designed mainly for Grade 4 and Grade 5 students. 
 ## Questions?
 
 Chairpersons: Sabrina Chen & Moli Zhang — [mathcontest@mybenfranklinpta.org](mailto:mathcontest@mybenfranklinpta.org)
+
+![Math Contest flyer](assets/images/math-contest-flyer.png)

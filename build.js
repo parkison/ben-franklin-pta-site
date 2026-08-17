@@ -32,6 +32,7 @@ const NAV = [
       { type: "page", slug: "math-enrichment" },
       { type: "page", slug: "math-challenge" },
       { type: "page", slug: "math-contest" },
+      { type: "page", slug: "reading-challenge" },
     ],
   },
   {
@@ -56,8 +57,8 @@ function parseCsv(raw) {
   });
 }
 
-const LINK_CATEGORY_LABELS = { important: "Important Links", photos: "Photo Sharing" };
-const LINK_CATEGORY_ORDER = ["important", "photos"];
+const LINK_CATEGORY_LABELS = { important: "Important Links", programs: "Program Sign-Ups", photos: "Photo Sharing" };
+const LINK_CATEGORY_ORDER = ["important", "programs", "photos"];
 
 function renderLinksSection() {
   const csvPath = path.join(CONTENT_DIR, "links.csv");

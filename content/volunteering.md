@@ -7,14 +7,6 @@ slug: volunteering
 
 We'd love your help! Volunteer sign-ups are managed through SignUp Genius. Current opportunities are listed below.
 
-## Kindergarten Welcome Table — August 12–13
-
-![Welcome to Kindergarten](assets/images/welcome-kindergarten.png)
-
-Help answer questions from incoming kindergarten families — things like how to register for school transportation and other back-to-school logistics. Two 2.5-hour slots are needed each day; if those times don't work for you, reach out and we can look at splitting the shifts further.
-
-[Sign up on SignUp Genius](https://www.signupgenius.com/go/5080B44ADAD2BA4F58-65013897-kindergarten#/)
-
 ## Campus Clean-Up Party — Tuesday, August 25, 5:00–7:30 p.m.
 
 ![Outdoor Cleanup](assets/images/outdoor-cleanup.png)

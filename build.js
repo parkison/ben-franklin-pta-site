@@ -37,9 +37,10 @@ const NAV = [
   },
   {
     type: "dropdown",
-    label: "Resource",
+    label: "Resources",
     children: [
       { type: "page", slug: "forms" },
+      { type: "page", slug: "flyers" },
       { type: "page", slug: "photos" },
       { type: "page", slug: "links" },
     ],

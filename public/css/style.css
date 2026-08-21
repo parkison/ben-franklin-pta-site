@@ -152,6 +152,13 @@ body {
   padding-bottom: 0.35rem;
 }
 
+.content h3 {
+  color: var(--pta-blue);
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.15rem;
+}
+
 .content p { color: var(--ink); }
 
 .content ul {

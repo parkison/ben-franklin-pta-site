@@ -11,8 +11,23 @@ slug: calendar
 - **August 25** — Campus Clean-Up Working Party, 5:00–7:30pm ([volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65074424-campus))
 - **August 27** — Playdate at Ben Franklin Playground, 4:00–5:00pm
 - **August 27** — Ice Cream Social, 3:00pm ([volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65066838-icecream))
-- **August 31** — First day of school
+- **August 31** — First day of school (grades 1–5); half days August 31–September 2
+- **September 3** — All Kindergarten students in school
+- **September 7** — Labor Day, no school
+- **September 24** — Fall Family Night
+- **September 29** — School Picture Day
 - **September 30** — PTA membership renewal deadline (sign up for a chance at a class pizza party!)
+- **October 7** — Fundraiser
+- **October 9** — Walk to School Day
+- **October 16** — No school
+- **October 23** — Movie Night
+- **October 24** — Trunk or Treat
+- **November 11** — Veterans Day, no school
+- **November 19** — International Night
+- **November 25** — Half day (Thanksgiving)
+- **November 26–27** — Thanksgiving Break, no school
+- **December 15** — Teacher Appreciation
+- **December 21 – January 1** — Winter Break, no school
 
 <details>
 <summary>Past Events</summary>

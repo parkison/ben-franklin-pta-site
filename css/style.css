@@ -39,6 +39,14 @@ body {
   font-weight: 700;
   text-decoration: none;
   letter-spacing: 0.02em;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.brand-logo {
+  height: 2.25rem;
+  width: 2.25rem;
 }
 
 .site-nav > ul {

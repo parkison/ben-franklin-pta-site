@@ -7,7 +7,7 @@ slug: reading-challenge
 
 ![Reading Challenge banner](assets/images/reading-challenge-header.png)
 
-The Franklin Reading Challenge is a **FREE** monthly reading program sponsored by the Ben Franklin PTA that encourages elementary students to explore books across a variety of genres from September through March. During the 2026–2027 school year, students will have the opportunity to participate in seven monthly reading challenges. This program is open to ALL Ben Franklin Elementary students. No registration is necessary!
+The Franklin Reading Challenge is a **FREE** monthly reading program sponsored by the Ben Franklin PTA that encourages elementary students to explore books across a variety of genres from October through April. During the 2026–2027 school year, students will have the opportunity to participate in seven monthly reading challenges. This program is open to ALL Ben Franklin Elementary students. No registration is necessary!
 
 **Important:** Participants may choose to submit their work online or turn it in at the library. Late submissions will not be accepted, so be sure to submit your child's completed challenge by the deadline.
 
@@ -28,14 +28,16 @@ Parents are also encouraged to reward their kids at home, as our prize budget ma
 
 | Challenge | Reading Topic | Available | Due Date |
 | --- | --- | --- | --- |
-| RC 1 | Realistic Fiction | 9/1/2026 | Fri, 10/2/2026 |
-| RC 2 | Mystery or Scary Fiction | 10/1/2026 | Fri, 11/6/2026 |
-| RC 3 | Biography & Autobiography | 11/1/2026 | Fri, 12/4/2026 |
-| RC 4 | Non-Fiction | 12/1/2026 | Fri, 1/8/2027 |
-| RC 5 | Fantasy Fiction | 1/1/2027 | Fri, 2/5/2027 |
-| RC 6 | Science Fiction | 2/1/2027 | Fri, 3/5/2027 |
-| RC 7 | Historical Fiction | 3/1/2027 | Fri, 4/2/2027 |
+| RC 1 | Realistic Fiction | 10/1/2026 | Fri, 11/6/2026 |
+| RC 2 | Mystery or Scary Fiction | 11/1/2026 | Fri, 12/4/2026 |
+| RC 3 | Biography & Autobiography | 12/1/2026 | Fri, 1/8/2027 |
+| RC 4 | Non-Fiction | 1/1/2027 | Fri, 2/5/2027 |
+| RC 5 | Fantasy Fiction | 2/1/2027 | Fri, 3/5/2027 |
+| RC 6 | Science Fiction | 3/1/2027 | Fri, 4/2/2027 |
+| RC 7 | Historical Fiction | 4/1/2027 | Fri, 5/7/2027 |
 
 ## Questions?
 
 Chairpersons: Sabrina & Jayshree — [readingchallenge@mybenfranklinpta.org](mailto:readingchallenge@mybenfranklinpta.org)
+
+![Reading Challenge flyer](assets/images/reading-challenge-flyer.png)

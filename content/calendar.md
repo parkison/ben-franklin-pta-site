@@ -9,7 +9,6 @@ slug: calendar
 
 ### August 2026
 
-- **August 20** — Playdate at Ben Franklin Playground, 4:00–6:00pm
 - **August 25** — Campus Clean-Up Working Party, 5:00–7:30pm ([volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65074424-campus))
 - **August 26** — Kindergarten Orientation, 5:30–6:30pm
 - **August 27** — Playdate at Ben Franklin Playground, 4:00–5:00pm
@@ -106,6 +105,8 @@ slug: calendar
 - **August 6** — Kindergarten Playdate at Ben Franklin Playground
 - **August 12–13** — Kindergarten Round-Up, 9:00am–1:00pm
 - **August 13** — Playdate at Ben Franklin Playground, 1:00–2:00pm
+- **August 20** — Playdate at Ben Franklin Playground, 4:00–6:00pm
+- **August 20** — Executive Board Meeting, 6:30pm
 
 </details>
 
@@ -122,7 +123,6 @@ All PTA members are welcome to attend and vote.
 
 The PTA executive board meets once a month during the school year. PTA members are welcome to attend as observers.
 
-- August 20, 2026 at 6:30pm
 - September 24, 2026 at 6:30pm (date may change — conflicts with Fall Family Night)
 - October 22, 2026 at 6:30pm
 - November 17, 2026 at 6:30pm (online)

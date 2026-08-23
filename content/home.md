@@ -17,12 +17,7 @@ The Ben Franklin PTA is looking forward to continuing to support the Franklin co
 
 **Ice Cream Social — Thursday, August 27, 3:00 p.m.** Free ice cream for kids (dairy and non-dairy options), plus PTA membership sign-ups, spiritwear, and a community art activity. We'd love your help running the booths — [volunteer here](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65066838-icecream).
 
-**PTA Playdates in August!** Join other Franklin families at the Ben Franklin playground:
-
-- Thursday, August 20: 4:00–6:00 p.m.
-- Thursday, August 27: 4:00–5:00 p.m.
-
-Soak up the sunshine while you get to know other Franklin families, or maybe catch up with familiar faces. You can even ask questions about the upcoming school year to your PTA board while your child plays. Don't forget your water bottles! Snacks, water, and juice will be available from the PTA. Reminder: the restrooms at school are unavailable, so please have your child use the toilet before attending the playdate.
+**PTA Playdate — Thursday, August 27, 4:00–5:00 p.m.** Join other Franklin families at the Ben Franklin playground. Soak up the sunshine while you get to know other Franklin families, or maybe catch up with familiar faces. You can even ask questions about the upcoming school year to your PTA board while your child plays. Don't forget your water bottles! Snacks, water, and juice will be available from the PTA. Reminder: the restrooms at school are unavailable, so please have your child use the toilet before attending the playdate.
 
 See the [full calendar](calendar.html) for more dates, including PTA meetings.
 

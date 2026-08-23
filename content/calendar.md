@@ -17,9 +17,11 @@ slug: calendar
 
 ### September 2026
 
+- **September 1** — Math Kangaroo Team Competition registration opens (PTA members)
 - **September 2** — Staff Appreciation: Stock the Lounge
 - **September 3** — First full day of school (grades 1–5); all Kindergarten students begin
 - **September 7** — Labor Day, no school
+- **September 7** — Math Kangaroo Team Competition registration opens (general public)
 - **September 23** — Fundraiser kick-off video and materials go home
 - **September 24** — Fall Family Night, 5:30–7:30pm
 - **September 24** — Open House, 6:00–7:30pm

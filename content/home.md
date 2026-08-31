@@ -11,7 +11,7 @@ We are excited to welcome all new and returning families to Ben Franklin for the
 
 The Ben Franklin PTA is looking forward to continuing to support the Franklin community this year. We have many ways that you can get involved – join the PTA, [volunteer your time](volunteering.html), donate funds, and sign up for our mailing list and Facebook page to stay informed about what the PTA is up to and opportunities for you to get involved.
 
-**Show your Franklin pride!** The Back-to-School Spiritwear Sale is on now, with up to 35% off sitewide. <a href="https://1stplace.sale/100090" class="btn">Shop Spirit Wear</a>
+**Show your Franklin pride!** The Back-to-School Spiritwear Sale is on now, with up to 35% off sitewide. [Shop Spirit Wear](https://1stplace.sale/100090).
 
 ## Announcements
 

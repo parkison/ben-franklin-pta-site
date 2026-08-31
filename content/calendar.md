@@ -9,10 +9,6 @@ slug: calendar
 
 ### August 2026
 
-- **August 25** — Campus Clean-Up Working Party, 5:00–7:30pm ([volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65074424-campus))
-- **August 26** — Kindergarten Orientation, 5:30–6:30pm
-- **August 27** — Playdate at Ben Franklin Playground, 4:00–5:00pm
-- **August 27** — Ice Cream Social & Meet and Greet, 3:00pm ([volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65066838-icecream))
 - **August 31** — First day of school (grades 1–5), half day; half days continue through September 2 for Family Connections meetings
 
 ### September 2026
@@ -20,10 +16,14 @@ slug: calendar
 - **September 1** — Math Kangaroo Team Competition registration opens (PTA members)
 - **September 2** — Staff Appreciation: Stock the Lounge
 - **September 3** — First full day of school (grades 1–5); all Kindergarten students begin
+- **September 4** — PTA Welcome Back Coffee Morning, followed by the first General Membership meeting at 10:00am
 - **September 7** — Labor Day, no school
 - **September 7** — Math Kangaroo Team Competition registration opens (general public)
+- **September 10** — PTA membership deadline to be included in fall enrichment priority registration
+- **September 11** — Fall enrichment class registration opens for PTA members, 8:00am (see [Enrichment Classes](enrichment.html))
+- **September 14** — General fall enrichment registration announced via the PTA newsletter
 - **September 23** — Fundraiser kick-off video and materials go home
-- **September 24** — Fall Family Night, 5:30–7:30pm
+- **September 24** — Fall Family Night, 5:30–7:30pm (BBQ & hot dogs; volunteers needed, sign-up coming soon)
 - **September 24** — Open House, 6:00–7:30pm
 - **September 29** — School Picture Day (individual pictures)
 - **September 30** — PTA membership renewal deadline (sign up for a chance at a class pizza party!)
@@ -109,6 +109,10 @@ slug: calendar
 - **August 13** — Playdate at Ben Franklin Playground, 1:00–2:00pm
 - **August 20** — Playdate at Ben Franklin Playground, 4:00–6:00pm
 - **August 20** — Executive Board Meeting, 6:30pm
+- **August 25** — Campus Clean-Up Working Party, 5:00–7:30pm
+- **August 26** — Kindergarten Orientation, 5:30–6:30pm
+- **August 27** — Playdate at Ben Franklin Playground, 4:00–5:00pm
+- **August 27** — Ice Cream Social & Meet and Greet, 3:00pm
 
 </details>
 
@@ -119,7 +123,7 @@ All PTA members are welcome to attend and vote.
 - September 4, 2026 at 10:00am (in-person)
 - December 10, 2026 at 6:00pm (online)
 - March 16, 2027 at 6:00pm (online)
-- May 20, 2027 at 9:30am (in-person) — combined with the Board meeting
+- May 21, 2027 at 9:30am (in-person)
 
 ## Executive Board Meetings
 
@@ -133,5 +137,5 @@ The PTA executive board meets once a month during the school year. PTA members a
 - February 18, 2027 at 6:30pm
 - March 16, 2027 at 6:30pm
 - April 22, 2027 at 6:30pm
-- May 20, 2027 — combined with the General Membership meeting, 9:30am (in-person)
+- May 20, 2027 at 6:30pm
 - June 10, 2027 at 6:30pm

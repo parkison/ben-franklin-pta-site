@@ -13,11 +13,13 @@ The Ben Franklin PTA is looking forward to continuing to support the Franklin co
 
 ## Announcements
 
-**Campus Clean-Up Party — Tuesday, August 25, 5:00–7:30 p.m.** Kids head back on August 31st, and our campus could use some love before then! Join us for weeding, pruning, planting, sweeping, and more — there are jobs for adults and kids alike. Pizza and treats for all our helpers afterward. [Volunteer here](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65074424-campus).
+**PTA Welcome Back Coffee Morning — Friday, September 4.** Join us on the playground by the picnic tables for tea, coffee, and Blazing Bagels. Meet other community members and chat with board members — take a breath after a big first week, whether you're settling back into routines or starting new ones. Our first PTA General Membership meeting will follow at 10am.
 
-**Ice Cream Social — Thursday, August 27, 3:00 p.m.** Free ice cream for kids (dairy and non-dairy options), plus PTA membership sign-ups, spiritwear, and a community art activity. We'd love your help running the booths — [volunteer here](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65066838-icecream).
+**Fall Enrichment Class Registration.** Registration for the fall session of on-campus enrichment classes opens soon! PTA member priority registration links go out 9/11 (join or renew your [membership](membership.html) by 9/10 to be included); general registration is announced in the PTA newsletter 9/14. See the [Enrichment Classes](enrichment.html) page for the full lineup — Bricks 4 Kidz, Chess Club, Ball Hockey, and After School Art.
 
-**PTA Playdate — Thursday, August 27, 4:00–5:00 p.m.** Join other Franklin families at the Ben Franklin playground. Soak up the sunshine while you get to know other Franklin families, or maybe catch up with familiar faces. You can even ask questions about the upcoming school year to your PTA board while your child plays. Don't forget your water bottles! Snacks, water, and juice will be available from the PTA. Reminder: the restrooms at school are unavailable, so please have your child use the toilet before attending the playdate.
+**Fall Family Night — Thursday, September 24, 5:30–7:30 p.m.** Join us for BBQ and hot dogs, available to the community while supplies last. Dessert and drinks other than water will be available for a small charge, so please bring cash. A Sign Up Genius for volunteers is coming soon — stay tuned!
+
+**Back-to-School Spiritwear Sale — final weeks!** Choose from hundreds of designs and garments, delivered to your home in days, with up to 35% off sitewide. [Shop now](https://1stplace.sale/100090).
 
 See the [full calendar](calendar.html) for more dates, including PTA meetings.
 

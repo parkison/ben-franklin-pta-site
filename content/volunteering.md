@@ -7,21 +7,13 @@ slug: volunteering
 
 We'd love your help! Volunteer sign-ups are managed through SignUp Genius. Current opportunities are listed below.
 
-## Campus Clean-Up Party — Tuesday, August 25, 5:00–7:30 p.m.
+## Fall Enrichment Class Volunteers Needed
 
-![Outdoor Cleanup](assets/images/outdoor-cleanup.png)
+We still need a parent volunteer for Bricks 4 Kidz: Lego Engineering, Ashley Hale Art, and McVander Hockey. The class volunteer receives free tuition and guaranteed placement! See the [Enrichment Classes](enrichment.html) page for class details, and email [enrichment@mybenfranklinpta.org](mailto:enrichment@mybenfranklinpta.org) if you're interested or have questions.
 
-Kids head back on August 31st, and our campus could use some love before then! We'll be weeding, pruning, planting, sweeping, spreading wood chips, and more — there are jobs for adults and kids alike. If you have them, bring gardening gloves, rakes, brooms, leaf blowers, or yard waste bags (label them with your name). Pizza and treats for all our helpers afterward.
+## Fall Family Night — Thursday, September 24, 5:30–7:30 p.m.
 
-[Sign up on SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65074424-campus)
-
-## Ice Cream Social — Thursday, August 27, 3:00 p.m.
-
-![Ice Cream Social](assets/images/ice-cream-social.png)
-
-Help us run the booths at our back-to-school Ice Cream Social — membership sign-ups, spiritwear, a community art activity, and the ice cream booth itself.
-
-[Sign up on SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65066838-icecream)
+We'll be serving BBQ and hot dogs to the community — a SignUp Genius for volunteer help is coming soon. Check back here or watch the newsletter for the link.
 
 ## Board and Chairperson Positions
 

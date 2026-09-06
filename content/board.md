@@ -3,7 +3,7 @@ title: Board
 nav: Board
 slug: board
 ---
-![Meet Our PTA Board 2025-2026](assets/images/board.jpg)
+![Meet Our PTA Board 2026-2027](assets/images/meeting-the-board.png)
 
 ## Interested in Joining the Board or Chairing a Committee?
 

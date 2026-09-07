@@ -15,8 +15,6 @@ The Ben Franklin PTA is looking forward to continuing to support the Franklin co
 
 ## Announcements
 
-**PTA Welcome Back Coffee Morning — Friday, September 4.** Join us on the playground by the picnic tables for tea, coffee, and Blazing Bagels. Meet other community members and chat with board members — take a breath after a big first week, whether you're settling back into routines or starting new ones. Our first PTA General Membership meeting will follow at 10am.
-
 **Fall Enrichment Class Registration.** Registration for the fall session of on-campus enrichment classes opens soon! PTA member priority registration links go out 9/11 (join or renew your [membership](membership.html) by 9/10 to be included); general registration is announced in the PTA newsletter 9/14. See the [Enrichment Classes](enrichment.html) page for the full lineup — Bricks 4 Kidz, Chess Club, Ball Hockey, and After School Art.
 
 **Fall Family Night — Thursday, September 24, 5:30–7:30 p.m.** Join us for BBQ and hot dogs, available to the community while supplies last. Dessert and drinks other than water will be available for a small charge, so please bring cash. A Sign Up Genius for volunteers is coming soon — stay tuned!

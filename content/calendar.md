@@ -7,18 +7,9 @@ slug: calendar
 
 ## Upcoming Events
 
-### August 2026
-
-- **August 31** — First day of school (grades 1–5), half day; half days continue through September 2 for Family Connections meetings
-
 ### September 2026
 
-- **September 1** — Math Kangaroo Team Competition registration opens (PTA members)
-- **September 2** — Staff Appreciation: Stock the Lounge
-- **September 3** — First full day of school (grades 1–5); all Kindergarten students begin
-- **September 4** — PTA Welcome Back Coffee Morning, followed by the first General Membership meeting at 10:00am
 - **September 7** — Labor Day, no school
-- **September 7** — Math Kangaroo Team Competition registration opens (general public)
 - **September 10** — PTA membership deadline to be included in fall enrichment priority registration
 - **September 11** — Fall enrichment class registration opens for PTA members, 8:00am (see [Enrichment Classes](enrichment.html))
 - **September 14** — General fall enrichment registration announced via the PTA newsletter
@@ -113,6 +104,10 @@ slug: calendar
 - **August 26** — Kindergarten Orientation, 5:30–6:30pm
 - **August 27** — Playdate at Ben Franklin Playground, 4:00–5:00pm
 - **August 27** — Ice Cream Social & Meet and Greet, 3:00pm
+- **August 31** — First day of school (grades 1–5), half day; half days continue through September 2 for Family Connections meetings
+- **September 2** — Staff Appreciation: Stock the Lounge
+- **September 3** — First full day of school (grades 1–5); all Kindergarten students begin
+- **September 4** — PTA Welcome Back Coffee Morning, followed by the first General Membership meeting at 10:00am
 
 </details>
 

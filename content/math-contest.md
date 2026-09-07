@@ -19,7 +19,7 @@ We are excited to share that the Ben Franklin PTA will be hosting several math c
 ## 2026–2027 Math Contests Lineup
 
 - **Noetic Math Contest (Fall)** — Grades 2–5 — Saturday, November 14 (backup: Nov 12–13) — 20 word problems, 45 minutes
-- **Math Kangaroo Team Contest** — Grades 1–5 — Tuesday, November 17, after school — Teams of 2–4, 60 minutes
+- **Math Kangaroo Team Contest** — Grades 1–5 — Tuesday, November 17, after school — Teams of 2–4, 60 minutes — *registration closed*
 - **Math Kangaroo (Individual)** — Grades 1–5 — 3rd Thursday in March — 24–30 multiple choice questions, 75 minutes
 - **Noetic Math Contest (Spring)** — Grades 2–5 — Saturday, April 3 (backup: Apr 1–2) — 20 word problems, 45 minutes
 - **Math Is Cool** — Grades 4–5, off campus — 5 teams per grade (20 students) — challenging team competition; registration priority based on past contest scores
@@ -39,7 +39,8 @@ The Noetic Learning Math Contest (NLMC) is a semiannual problem-solving contest 
 
 This collaborative competition allows students to experience math challenges alongside peers, building communication and teamwork skills in addition to mathematical reasoning.
 
-- Registration Window: September 1–15, for a maximum of 25 teams (100 students); closes once full
+**Registration is closed.** All 25 teams filled within hours of registration opening on September 1. If your child wasn't able to join our Franklin team competition, public centers also offer the Math Kangaroo Team Competition — see the [list of available locations](https://mathkangaroo.org/mks/team-competition-centers/).
+
 - Contest Date: Tuesday, November 17, after school
 - Team Format: Teams of 2–4 members, each with one parent serving as team coach; teams choose their own name. The PTA is not able to assist with team formation.
 - Eligibility: Grades 1–5

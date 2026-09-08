@@ -5,6 +5,8 @@ slug: fall-family-night
 ---
 # Fall Family Night: Meet. Learn. Connect.
 
+![Fall Family Night flyer](assets/images/fall-family.png)
+
 **Thursday, September 24, 2026**
 
 - **Curriculum Night** — 5:30–6:30 p.m. in the classrooms
@@ -12,21 +14,10 @@ slug: fall-family-night
 
 Come explore the school during open house and enjoy food and drinks! Visit your classrooms from 5:30–6:30, then come on outside for some BBQ. We'll have BBQ and hot dogs available to our community until supplies run out. Dessert and drinks besides water will be available for a charge, so please bring small bills.
 
-## Curriculum Night
-
-Learn about a "day in the life" of your student.
-
-## Delicious BBQ
-
-Free food provided by the PTA from Briley's BBQ.
-
-## Refreshing Drinks
-
-Beverages available for purchase.
-
-## Sweet Treat
-
-Buy a sweet treat to support the 5th grade fundraiser.
+- **Curriculum Night** — Learn about a "day in the life" of your student.
+- **Delicious BBQ** — Free food provided by the PTA from Briley's BBQ.
+- **Refreshing Drinks** — Beverages available for purchase.
+- **Sweet Treat** — Buy a sweet treat to support the 5th grade fundraiser.
 
 ## Volunteer
 

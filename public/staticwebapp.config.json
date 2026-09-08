@@ -1,0 +1,14 @@
+{
+  "routes": [
+    {
+      "route": "/fundraiser",
+      "redirect": "/donate",
+      "statusCode": 301
+    },
+    {
+      "route": "/fundraiser.html",
+      "redirect": "/donate.html",
+      "statusCode": 301
+    }
+  ]
+}

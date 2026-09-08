@@ -14,7 +14,7 @@ slug: calendar
 - **September 11** — Fall enrichment class registration opens for PTA members, 8:00am (see [Enrichment Classes](enrichment.html))
 - **September 14** — General fall enrichment registration announced via the PTA newsletter
 - **September 23** — Fundraiser kick-off video and materials go home
-- **September 24** — Fall Family Night, 5:30–7:30pm (BBQ & hot dogs; volunteers needed, sign-up coming soon)
+- **September 24** — [Fall Family Night](fall-family-night.html), 5:30–7:30pm (BBQ & hot dogs; [volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65669701-fall))
 - **September 24** — Open House, 6:00–7:30pm
 - **September 29** — School Picture Day (individual pictures)
 - **September 30** — PTA membership renewal deadline (sign up for a chance at a class pizza party!)

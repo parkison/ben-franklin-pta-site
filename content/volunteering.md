@@ -17,7 +17,7 @@ We still need a parent volunteer for Bricks 4 Kidz: Lego Engineering, Ashley Hal
 
 ## Fall Family Night — Thursday, September 24, 5:30–7:30 p.m.
 
-We'll be serving BBQ and hot dogs to the community — a SignUp Genius for volunteer help is coming soon. Check back here or watch the newsletter for the link.
+We'll be serving BBQ and hot dogs to the community. Sign up on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65669701-fall). See the [Fall Family Night](fall-family-night.html) page for event details.
 
 ## Board and Chairperson Positions
 

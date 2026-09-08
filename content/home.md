@@ -31,7 +31,7 @@ See [what your donation supports](what-we-fund.html).
 
 **Fall Enrichment Class Registration.** Registration for the fall session of on-campus enrichment classes opens soon! PTA member priority registration links go out 9/11 (join or renew your [membership](membership.html) by 9/10 to be included); general registration is announced in the PTA newsletter 9/14. See the [Enrichment Classes](enrichment.html) page for the full lineup — Bricks 4 Kidz, Chess Club, Ball Hockey, and After School Art.
 
-**Fall Family Night — Thursday, September 24, 5:30–7:30 p.m.** Join us for BBQ and hot dogs, available to the community while supplies last. Dessert and drinks other than water will be available for a small charge, so please bring cash. A Sign Up Genius for volunteers is coming soon — stay tuned!
+**[Fall Family Night](fall-family-night.html) — Thursday, September 24, 5:30–7:30 p.m.** Join us for BBQ and hot dogs, available to the community while supplies last. Dessert and drinks other than water will be available for a small charge, so please bring cash. [Sign up to volunteer](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65669701-fall).
 
 See the [full calendar](calendar.html) for more dates, including PTA meetings.
 

@@ -13,6 +13,7 @@ const NAV = [
     children: [
       { type: "page", slug: "mission" },
       { type: "page", slug: "board" },
+      { type: "page", slug: "what-we-fund" },
       { type: "page", slug: "standing-rules" },
     ],
   },

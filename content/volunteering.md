@@ -9,7 +9,7 @@ We'd love your help! Volunteer sign-ups are managed through SignUp Genius. Curre
 
 ## Ninja Warrior Run — Friday, October 7
 
-Help make our fundraiser obstacle course a fun day for everyone! Sign up on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65664830-franklin). See the [Fundraiser page](fundraiser.html) for event details.
+Help make our fundraiser obstacle course a fun day for everyone! Sign up on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65664830-franklin). See the [Fundraiser page](donate.html) for event details.
 
 ## Fall Enrichment Class Volunteers Needed
 

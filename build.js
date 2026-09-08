@@ -29,7 +29,7 @@ const NAV = [
     type: "dropdown",
     label: "Programs",
     children: [
-      { type: "page", slug: "fundraiser" },
+      { type: "page", slug: "donate" },
       { type: "page", slug: "welcome-back-teachers" },
       { type: "page", slug: "enrichment" },
       { type: "page", slug: "math-enrichment" },

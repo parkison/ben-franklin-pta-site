@@ -1,7 +1,7 @@
 ---
 title: Ninja Warrior Run Fundraiser 2026
 nav: Fundraiser
-slug: fundraiser
+slug: donate
 hero: assets/images/ninja-warrior-run.jpg
 hero_alt: Student running the Ninja Warrior Run course
 ---

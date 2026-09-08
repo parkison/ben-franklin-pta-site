@@ -28,7 +28,6 @@ We can always use extra hands to make it a fun day for everyone — [sign up to 
 
 - A pizza party for the class with the most donations
 - Any class that reaches 100% donation participation before October 1, 2026 gets to run the obstacle course twice!
-- Drawings for students who raise over $155 — the more you raise, the potentially bigger the prize!
 
 ## Support Our School
 

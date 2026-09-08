@@ -8,13 +8,21 @@ hero_alt: Student running the Ninja Warrior Run course
 
 # Ninja Warrior Run Fundraiser 2026
 
+We're kicking off the year with our only fundraising event, the Ninja Warrior Run! It's a fun way for students to raise money for enhanced educational resources and activities at our school.
+
+![Ninja Warrior Run event poster](assets/images/ninja-warrior-run-poster.png)
+
 **Event Date:** October 7, 2026
 
 **Fundraising Goal:** $113,000
 
-That's just $155 per student — and don't forget to check with your employer about company matching to double the impact of your donation!
+That's just $155 per student — help your child reach out to neighbors, friends, and family for support. Donations can be made online below, or by cash/check returned in the fundraising envelope your child will receive the week of September 14. Don't forget to include any company matching info to double your impact!
 
 <a href="https://my.cheddarup.com/c/ninja-warrior-run-fundraiser-2026/items" class="btn">Donate Now</a>
+
+For the next few weeks, we'll share tips to make fundraising easy. Then on October 7th, students will celebrate by running an obstacle course during recess!
+
+We can always use extra hands to make it a fun day for everyone — [sign up to volunteer here](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65664830-franklin).
 
 ## Support Our School
 

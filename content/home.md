@@ -23,6 +23,8 @@ This is the PTA's only fundraiser of the year, and it makes a real difference â€
 
 <a href="donate.html" class="btn">See Event Details</a>
 
+See [what your donation supports](what-we-fund.html).
+
 </div>
 
 ## Announcements

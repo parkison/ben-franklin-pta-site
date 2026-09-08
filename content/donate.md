@@ -16,13 +16,19 @@ We're kicking off the year with our only fundraising event, the Ninja Warrior Ru
 
 **Fundraising Goal:** $113,000
 
-That's just $155 per student — help your child reach out to neighbors, friends, and family for support. Donations can be made online below, or by cash/check returned in the fundraising envelope your child will receive the week of September 14. Don't forget to include any company matching info to double your impact!
+That's just $155 per student — help your child reach out to neighbors, friends, and family for support. Donations can be made online below, or by cash/check (payable to Ben Franklin PTA) returned in the fundraising envelope your child will receive the week of September 14; please return envelopes by October 7. Don't forget to check with your company about matching — it doubles your impact! Just include a copy of the completed matching paperwork.
 
 <a href="https://my.cheddarup.com/c/ninja-warrior-run-fundraiser-2026/items" class="btn">Donate Now</a>
 
 For the next few weeks, we'll share tips to make fundraising easy. Then on October 7th, students will celebrate by running an obstacle course during recess!
 
 We can always use extra hands to make it a fun day for everyone — [sign up to volunteer here](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65664830-franklin).
+
+## Prizes and Raffle
+
+- A pizza party for the class with the most donations
+- Any class that reaches 100% donation participation before October 1, 2026 gets to run the obstacle course twice!
+- Drawings for students who raise over $155 — the more you raise, the potentially bigger the prize!
 
 ## Support Our School
 
@@ -36,6 +42,8 @@ Every contribution counts! Your generous donations will help the PTA fund essent
 - Literacy and math-focused events
 - On-campus workshops, assemblies, and symposiums
 - Books for the library and art supplies
+
+See [What Does the PTA Fund?](what-we-fund.html) for a full breakdown of where the money goes.
 
 ## Giving Levels
 

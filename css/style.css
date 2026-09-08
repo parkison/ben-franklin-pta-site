@@ -266,6 +266,21 @@ body {
 }
 
 
+.callout {
+  background: #eaf1fb;
+  border: 2px solid var(--pta-gold);
+  border-radius: 12px;
+  padding: 1.75rem 2rem 0.5rem;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.callout h2 {
+  margin-top: 0;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
 .link-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));

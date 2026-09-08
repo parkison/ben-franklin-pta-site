@@ -13,6 +13,18 @@ The Ben Franklin PTA is looking forward to continuing to support the Franklin co
 
 **Show your Franklin pride!** The Back-to-School Spiritwear Sale is on now, with up to 35% off sitewide. [Shop Spirit Wear](https://1stplace.sale/100090).
 
+<div class="callout">
+
+## Ninja Warrior Run: Our Big Fundraiser Is Here!
+
+This is the PTA's only fundraiser of the year, and it makes a real difference — funding math and reading programs, staff training, classroom supplies, field trips, and enrichment for every Franklin student. Help us reach our $113,000 goal! Students celebrate with an obstacle course during recess on October 7.
+
+<a href="https://my.cheddarup.com/c/ninja-warrior-run-fundraiser-2026/items" class="btn">Donate Now</a>
+
+<a href="donate.html" class="btn">See Event Details</a>
+
+</div>
+
 ## Announcements
 
 **Fall Enrichment Class Registration.** Registration for the fall session of on-campus enrichment classes opens soon! PTA member priority registration links go out 9/11 (join or renew your [membership](membership.html) by 9/10 to be included); general registration is announced in the PTA newsletter 9/14. See the [Enrichment Classes](enrichment.html) page for the full lineup — Bricks 4 Kidz, Chess Club, Ball Hockey, and After School Art.

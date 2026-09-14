@@ -5,7 +5,7 @@ slug: fall-family-night
 ---
 # Fall Family Night: Meet. Learn. Connect.
 
-![Fall Family Night flyer](assets/images/fall-family.png)
+![Fall Family Night flyer](assets/images/fallfam5.jpeg)
 
 **Thursday, September 24, 2026**
 

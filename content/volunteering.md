@@ -11,6 +11,10 @@ We'd love your help! Volunteer sign-ups are managed through SignUp Genius. Curre
 
 Help make our fundraiser obstacle course a fun day for everyone! Sign up on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65664830-franklin). See the [Fundraiser page](donate.html) for event details.
 
+## Walk & Ride to School Day — Friday, October 9, 8:00–9:00 a.m.
+
+Help celebrate walking, rolling, biking, busing, and carpooling to school! Sign up on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-44474882-volunteer).
+
 ## Fall Enrichment Class Volunteers Needed
 
 We still need a parent volunteer for Bricks 4 Kidz: Lego Engineering, Ashley Hale Art, and McVander Hockey. The class volunteer receives free tuition and guaranteed placement! See the [Enrichment Classes](enrichment.html) page for class details, and email [enrichment@mybenfranklinpta.org](mailto:enrichment@mybenfranklinpta.org) if you're interested or have questions.

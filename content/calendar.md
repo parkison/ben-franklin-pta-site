@@ -22,7 +22,7 @@ slug: calendar
 ### October 2026
 
 - **October 7** — Warrior Run Fundraiser
-- **October 9** — Walk to School Day / Safety Week, 8:00–9:00am
+- **October 9** — Walk to School Day / Safety Week, 8:00–9:00am ([volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-44474882-volunteer))
 - **October 16** — LEAP Day, no school
 - **October 23** — Drama Movie Night
 - **October 24** — Trunk or Treat, 1:00–3:00pm

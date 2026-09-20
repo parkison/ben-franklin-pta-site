@@ -24,6 +24,7 @@ slug: calendar
 ### November 2026
 
 - **November 5** — Individual picture retakes
+- **November 6** — [Reflections Art Competition](reflections.html) entries due (submit to your teacher)
 - **November 11** — Veterans Day, no school
 - **November 19** — International Night
 - **November 23–24** — Staff Appreciation event

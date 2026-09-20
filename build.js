@@ -38,6 +38,7 @@ const NAV = [
       { type: "page", slug: "math-challenge" },
       { type: "page", slug: "math-contest" },
       { type: "page", slug: "reading-challenge" },
+      { type: "page", slug: "reflections" },
     ],
   },
   {

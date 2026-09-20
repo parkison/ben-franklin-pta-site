@@ -7,21 +7,25 @@ slug: volunteering
 
 We'd love your help! Volunteer sign-ups are managed through SignUp Genius. Current opportunities are listed below.
 
-## Ninja Warrior Run — Friday, October 7
+## Fall Family Night — Thursday, September 24, 5:30–7:30 p.m.
+
+We'll be serving BBQ and hot dogs to the community, and we need approximately 35 volunteers — without more help we'll have to scale back the event. Sign up on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65669701-fall). See the [Fall Family Night](fall-family-night.html) page for event details.
+
+## School Picture Day — Tuesday, September 29
+
+Help the kiddos get ready for their big smiles! Sign up on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65574736-picture).
+
+## Ninja Warrior Run — Wednesday, October 7
 
 Help make our fundraiser obstacle course a fun day for everyone! Sign up on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65664830-franklin). See the [Fundraiser page](donate.html) for event details.
 
 ## Walk & Ride to School Day — Friday, October 9, 8:00–9:00 a.m.
 
-Help celebrate walking, rolling, biking, busing, and carpooling to school! Sign up on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-44474882-volunteer).
+Help celebrate walking, rolling, biking, busing, and carpooling to school! Students and families arrive between 8:30 and 9:00 a.m.; the event ends by 9:00 to avoid congestion with buses. Sign up to volunteer on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-44474882-volunteer).
 
 ## Fall Enrichment Class Volunteers Needed
 
 We still need a parent volunteer for Bricks 4 Kidz: Lego Engineering, Ashley Hale Art, and McVander Hockey. The class volunteer receives free tuition and guaranteed placement! See the [Enrichment Classes](enrichment.html) page for class details, and email [enrichment@mybenfranklinpta.org](mailto:enrichment@mybenfranklinpta.org) if you're interested or have questions.
-
-## Fall Family Night — Thursday, September 24, 5:30–7:30 p.m.
-
-We'll be serving BBQ and hot dogs to the community. Sign up on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65669701-fall). See the [Fall Family Night](fall-family-night.html) page for event details.
 
 ## Board and Chairperson Positions
 

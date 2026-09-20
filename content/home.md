@@ -11,7 +11,7 @@ We are excited to welcome all new and returning families to Ben Franklin for the
 
 The Ben Franklin PTA is looking forward to continuing to support the Franklin community this year. We have many ways that you can get involved – join the PTA, [volunteer your time](volunteering.html), donate funds, and sign up for our mailing list and Facebook page to stay informed about what the PTA is up to and opportunities for you to get involved.
 
-**Show your Franklin pride!** The Back-to-School Spiritwear Sale is on now, with up to 35% off sitewide. [Shop Spirit Wear](https://1stplace.sale/100090).
+**Show your Franklin pride!** The Back-to-School Spiritwear Sale is in its final weeks, with up to 35% off sitewide. [Shop Spirit Wear](https://1stplace.sale/100090).
 
 <div class="callout">
 
@@ -29,9 +29,11 @@ See [what your donation supports](what-we-fund.html).
 
 ## Announcements
 
-**Fall Enrichment Class Registration.** Registration for the fall session of on-campus enrichment classes opens soon! PTA member priority registration links go out 9/11 (join or renew your [membership](membership.html) by 9/10 to be included); general registration is announced in the PTA newsletter 9/14. See the [Enrichment Classes](enrichment.html) page for the full lineup — Bricks 4 Kidz, Chess Club, Ball Hockey, and After School Art.
+**[Fall Family Night](fall-family-night.html) — Thursday, September 24, 5:30–7:30 p.m.** Join us for BBQ and hot dogs, available to the community while supplies last. Dessert and drinks other than water will be available for a small charge, so please bring cash. We need about 35 volunteers to run the event — [sign up to volunteer](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65669701-fall).
 
-**[Fall Family Night](fall-family-night.html) — Thursday, September 24, 5:30–7:30 p.m.** Join us for BBQ and hot dogs, available to the community while supplies last. Dessert and drinks other than water will be available for a small charge, so please bring cash. [Sign up to volunteer](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65669701-fall).
+**School Picture Day — Tuesday, September 29.** [Volunteers are needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65574736-picture) to help the kids on picture day.
+
+**Walk & Ride to School Day — Friday, October 9, 8:00–9:00 a.m.** Walk, roll, bike, bus, or carpool to school! [Volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-44474882-volunteer).
 
 See the [full calendar](calendar.html) for more dates, including PTA meetings.
 

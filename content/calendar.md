@@ -9,14 +9,9 @@ slug: calendar
 
 ### September 2026
 
-- **September 7** — Labor Day, no school
-- **September 10** — PTA membership deadline to be included in fall enrichment priority registration
-- **September 11** — Fall enrichment class registration opens for PTA members, 8:00am (see [Enrichment Classes](enrichment.html))
-- **September 14** — General fall enrichment registration announced via the PTA newsletter
 - **September 23** — Fundraiser kick-off video and materials go home
-- **September 24** — [Fall Family Night](fall-family-night.html), 5:30–7:30pm (BBQ & hot dogs; [volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65669701-fall))
-- **September 24** — Open House, 6:00–7:30pm
-- **September 29** — School Picture Day (individual pictures)
+- **September 24** — [Fall Family Night](fall-family-night.html), 5:30–7:30pm (Open House in the classrooms 5:30–6:30, BBQ & hot dogs on the Black Top 6:00–7:30; [volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65669701-fall))
+- **September 29** — School Picture Day (individual pictures; [volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65574736-picture))
 - **September 30** — PTA membership renewal deadline (sign up for a chance at a class pizza party!)
 
 ### October 2026
@@ -108,6 +103,10 @@ slug: calendar
 - **September 2** — Staff Appreciation: Stock the Lounge
 - **September 3** — First full day of school (grades 1–5); all Kindergarten students begin
 - **September 4** — PTA Welcome Back Coffee Morning, followed by the first General Membership meeting at 10:00am
+- **September 7** — Labor Day, no school
+- **September 10** — PTA membership deadline to be included in fall enrichment priority registration
+- **September 11** — Fall enrichment class registration opens for PTA members
+- **September 14** — General fall enrichment registration announced via the PTA newsletter
 
 </details>
 

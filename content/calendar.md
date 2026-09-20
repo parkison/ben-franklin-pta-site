@@ -9,7 +9,6 @@ slug: calendar
 
 ### September 2026
 
-- **September 23** — Fundraiser kick-off video and materials go home
 - **September 24** — [Fall Family Night](fall-family-night.html), 5:30–7:30pm (Open House in the classrooms 5:30–6:30, BBQ & hot dogs on the Black Top 6:00–7:30; [volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65669701-fall))
 - **September 29** — School Picture Day (individual pictures; [volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65574736-picture))
 - **September 30** — PTA membership renewal deadline (sign up for a chance at a class pizza party!)

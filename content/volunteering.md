@@ -7,10 +7,6 @@ slug: volunteering
 
 We'd love your help! Volunteer sign-ups are managed through SignUp Genius. Current opportunities are listed below.
 
-## Fall Family Night — Thursday, September 24, 5:30–7:30 p.m.
-
-We'll be serving BBQ and hot dogs to the community, and we need approximately 35 volunteers — without more help we'll have to scale back the event. Sign up on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65669701-fall). See the [Fall Family Night](fall-family-night.html) page for event details.
-
 ## School Picture Day — Tuesday, September 29
 
 Help the kiddos get ready for their big smiles! Sign up on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65574736-picture).

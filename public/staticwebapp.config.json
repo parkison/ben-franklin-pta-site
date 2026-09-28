@@ -9,6 +9,31 @@
       "route": "/fundraiser.html",
       "redirect": "/donate.html",
       "statusCode": 301
+    },
+    {
+      "route": "/Donate.html",
+      "redirect": "/donate",
+      "statusCode": 301
+    },
+    {
+      "route": "/Events.html",
+      "redirect": "/calendar",
+      "statusCode": 301
+    },
+    {
+      "route": "/OurMission.html",
+      "redirect": "/mission",
+      "statusCode": 301
+    },
+    {
+      "route": "/PTA-Meeting-dates.html",
+      "redirect": "/calendar",
+      "statusCode": 301
+    },
+    {
+      "route": "/Reflections.html",
+      "redirect": "/reflections",
+      "statusCode": 301
     }
   ]
 }

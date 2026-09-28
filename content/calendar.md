@@ -9,13 +9,14 @@ slug: calendar
 
 ### September 2026
 
-- **September 24** — [Fall Family Night](fall-family-night.html), 5:30–7:30pm (Open House in the classrooms 5:30–6:30, BBQ & hot dogs on the Black Top 6:00–7:30; [volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65669701-fall))
 - **September 29** — School Picture Day (individual pictures; [volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65574736-picture))
 - **September 30** — PTA membership renewal deadline (sign up for a chance at a class pizza party!)
 
 ### October 2026
 
-- **October 7** — Warrior Run Fundraiser
+- **October 2** — Garden Club: sampling the fall harvest, during lunch recess
+- **October 2–4** — 5th Grade Camp fundraiser at Dough Zone Kirkland Urban (10% of dine-in and phone orders)
+- **October 7** — Ninja Warrior Run Fundraiser ([volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65664830-franklin))
 - **October 9** — Walk to School Day / Safety Week, 8:00–9:00am ([volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-44474882-volunteer))
 - **October 16** — LEAP Day, no school
 - **October 23** — Drama Movie Night
@@ -107,6 +108,7 @@ slug: calendar
 - **September 10** — PTA membership deadline to be included in fall enrichment priority registration
 - **September 11** — Fall enrichment class registration opens for PTA members
 - **September 14** — General fall enrichment registration announced via the PTA newsletter
+- **September 24** — [Fall Family Night](fall-family-night.html) (Open House and BBQ)
 
 </details>
 
@@ -123,7 +125,7 @@ All PTA members are welcome to attend and vote.
 
 The PTA executive board meets once a month during the school year. PTA members are welcome to attend as observers.
 
-- September 24, 2026 at 6:30pm (date may change — conflicts with Fall Family Night)
+- September 29, 2026 at 7:00pm
 - October 22, 2026 at 6:30pm
 - November 17, 2026 at 6:30pm (online)
 - December 10, 2026 at 6:30pm

@@ -11,7 +11,8 @@ slug: reflections
 
 ## Important details
 
-- You will need to turn in your artwork AND a [student entry form](https://benfranklinpta.sharepoint.com/:b:/s/pta/IQCWeTvH-rZ2TIIYA4FzGId8AQkri3tTd_RpfWgzo0Eveuk?e=k5IND6) to your teacher.
+- You will need to turn in your artwork to your teacher AND use this link to complete an [online submission form](https://forms.gle/AxQH1mk4i7ckuRsx7).
+- You will need to upload this [student entry form](https://benfranklinpta-my.sharepoint.com/:b:/g/personal/sarac%5Fmybenfranklinpta%5Forg/IQDDFRw17WG9R6XlTOMaTPNxAQD71LN1nW81FiYnCHuTZx8?e=a1qWer) when completing the online submission.
 - Your artwork CANNOT have your name on the public facing side of your artwork. Please write it on the back.
 
 ## Categories

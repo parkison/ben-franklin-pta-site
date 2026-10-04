@@ -29,13 +29,9 @@ See [what your donation supports](what-we-fund.html).
 
 ## Announcements
 
-**School Picture Day — Tuesday, September 29.** [Volunteers are needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65574736-picture) to help the kids on picture day.
-
-**Garden Club — Friday, October 2, during lunch recess.** The first Garden Club session of the year! Students will sample the fall produce our volunteers tended over the summer.
-
 **5th Grade Camp Fundraiser at Dough Zone — October 2–4.** Dough Zone Kirkland Urban will donate 10% of proceeds from dine-in and phone orders to help cover 5th Grade Camp costs. Mention Ben Franklin Elementary when ordering.
 
-**Walk & Ride to School Day — Friday, October 9, 8:00–9:00 a.m.** Walk, roll, bike, bus, or carpool to school! [Volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-44474882-volunteer).
+**Walk & Ride to School Day — Friday, October 9, 8:00–9:00 a.m.** Walk, roll, bike, bus, or carpool to school — and enter to win a $400 Kirkland Bicycle gift card! [Event details](walk-to-school.html) · [Volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-44474882-volunteer).
 
 See the [full calendar](calendar.html) for more dates, including PTA meetings.
 

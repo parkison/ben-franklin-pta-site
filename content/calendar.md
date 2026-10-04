@@ -7,17 +7,11 @@ slug: calendar
 
 ## Upcoming Events
 
-### September 2026
-
-- **September 29** — School Picture Day (individual pictures; [volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65574736-picture))
-- **September 30** — PTA membership renewal deadline (sign up for a chance at a class pizza party!)
-
 ### October 2026
 
-- **October 2** — Garden Club: sampling the fall harvest, during lunch recess
 - **October 2–4** — 5th Grade Camp fundraiser at Dough Zone Kirkland Urban (10% of dine-in and phone orders)
 - **October 7** — Ninja Warrior Run Fundraiser ([volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65664830-franklin))
-- **October 9** — Walk to School Day / Safety Week, 8:00–9:00am ([volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-44474882-volunteer))
+- **October 9** — [Walk & Ride to School Day](walk-to-school.html) / Safety Week, 8:00–9:00am ([volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-44474882-volunteer))
 - **October 16** — LEAP Day, no school
 - **October 23** — Drama Movie Night
 - **October 24** — Trunk or Treat, 1:00–3:00pm
@@ -109,6 +103,9 @@ slug: calendar
 - **September 11** — Fall enrichment class registration opens for PTA members
 - **September 14** — General fall enrichment registration announced via the PTA newsletter
 - **September 24** — [Fall Family Night](fall-family-night.html) (Open House and BBQ)
+- **September 29** — School Picture Day (individual pictures)
+- **September 30** — PTA membership renewal deadline
+- **October 2** — Garden Club: sampling the fall harvest, during lunch recess
 
 </details>
 

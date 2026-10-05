@@ -9,7 +9,7 @@ slug: reading-challenge
 
 The Franklin Reading Challenge is a **FREE** monthly reading program sponsored by the Ben Franklin PTA that encourages elementary students to explore books across a variety of genres from October through April. During the 2026–2027 school year, students will have the opportunity to participate in seven monthly reading challenges. This program is open to ALL Ben Franklin Elementary students. No registration is necessary!
 
-**Important:** Participants may choose to submit their work online or turn it in at the library. Late submissions will not be accepted, so be sure to submit your child's completed challenge by the deadline.
+**Important:** Participants may choose to submit their work online (Book Investigator version only — see below) or turn it in at the library. Late submissions will not be accepted, so be sure to submit your child's completed challenge by the deadline.
 
 ## Join the Reading Challenge Email List
 
@@ -35,6 +35,20 @@ Parents are also encouraged to reward their kids at home, as our prize budget ma
 | RC 5 | Fantasy Fiction | 2/1/2027 | Fri, 3/5/2027 |
 | RC 6 | Science Fiction | 3/1/2027 | Fri, 4/2/2027 |
 | RC 7 | Historical Fiction | 4/1/2027 | Fri, 5/7/2027 |
+
+## Online Submission
+
+Students completing the **Book Investigator** version may submit their Reading Challenge online using the links below:
+
+- **Reading Challenge 1** (due Fri, 11/6/2026) — [Submit Reading Challenge 1 Online](https://forms.cloud.microsoft/r/q6zHzLUNv1?origin=lprLink)
+- **Reading Challenge 2** (due Fri, 12/4/2026) — [Submit Reading Challenge 2 Online](https://forms.cloud.microsoft/r/zCEsdcMCxW?origin=lprLink)
+- **Reading Challenge 3** (due Fri, 1/8/2027) — [Submit Reading Challenge 3 Online](https://forms.cloud.microsoft/r/sdyP5jDSLm?origin=lprLink)
+- **Reading Challenge 4** (due Fri, 2/5/2027) — [Submit Reading Challenge 4 Online](https://forms.cloud.microsoft/r/7hacQ9i7tL?origin=lprLink)
+- **Reading Challenge 5** (due Fri, 3/5/2027) — [Submit Reading Challenge 5 Online](https://forms.cloud.microsoft/r/AWW5hfu1BZ?origin=lprLink)
+- **Reading Challenge 6** (due Fri, 4/2/2027) — [Submit Reading Challenge 6 Online](https://forms.cloud.microsoft/r/kq1nzwv8d3?origin=lprLink)
+- **Reading Challenge 7** (due Fri, 5/7/2027) — [Submit Reading Challenge 7 Online](https://forms.cloud.microsoft/r/HMrdvssdg7?origin=lprLink)
+
+**Please note:** Online submission is available only for the Book Investigator version. The **Book Spotlight** version must be completed and submitted as a paper copy to the school library.
 
 ## Questions?
 

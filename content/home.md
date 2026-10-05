@@ -33,6 +33,10 @@ See [what your donation supports](what-we-fund.html).
 
 **Walk & Ride to School Day — Friday, October 9, 8:00–9:00 a.m.** Walk, roll, bike, bus, or carpool to school — and enter to win a $400 Kirkland Bicycle gift card! [Event details](walk-to-school.html) · [Volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-44474882-volunteer).
 
+**Movie Night — Friday, October 23, 6:00 p.m.** Join the PTA and Drama Club for a free screening of _The Jungle Book_ in the Franklin Elementary Commons. Bring blankets or pillows! [Event details](movie-night.html)
+
+**Franklin Fall Fest — Saturday, October 24, 1:00–3:00 p.m.** Our new fall tradition replaces Trunk or Treat, with crafts, music, treats, and games for the whole family. [Event details](fall-fest.html)
+
 See the [full calendar](calendar.html) for more dates, including PTA meetings.
 
 ## Get Involved

@@ -13,8 +13,8 @@ slug: calendar
 - **October 7** — Ninja Warrior Run Fundraiser ([volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65664830-franklin))
 - **October 9** — [Walk & Ride to School Day](walk-to-school.html) / Safety Week, 8:00–9:00am ([volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-44474882-volunteer))
 - **October 16** — LEAP Day, no school
-- **October 23** — Drama Movie Night
-- **October 24** — Trunk or Treat, 1:00–3:00pm
+- **October 23** — [Movie Night](movie-night.html) with the Drama Club, 6:00pm (free entry)
+- **October 24** — [Franklin Fall Fest](fall-fest.html), 1:00–3:00pm
 
 ### November 2026
 

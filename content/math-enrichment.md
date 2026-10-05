@@ -13,7 +13,7 @@ The Franklin Math program is run by our Franklin PTA and consists of two parts:
 
 15 sets of challenging problems throughout the year, free and open to all students.
 
-Chairpersons: Subarna Kar & Gia Shen — [mathchallenge@mybenfranklinpta.org](mailto:mathchallenge@mybenfranklinpta.org)
+Chairpersons: Subarna Kar & Xiaoqian Wang — [mathchallenge@mybenfranklinpta.org](mailto:mathchallenge@mybenfranklinpta.org)
 
 See the [Math Challenge](math-challenge.html) page for the full schedule and submission links.
 

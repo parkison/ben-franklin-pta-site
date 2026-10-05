@@ -42,6 +42,6 @@ Parents are also encouraged to reward their kids at home, as our prize budget ma
 
 ## Questions?
 
-Chairpersons: Subarna Kar & Gia Shen — [mathchallenge@mybenfranklinpta.org](mailto:mathchallenge@mybenfranklinpta.org)
+Chairpersons: Subarna Kar & Xiaoqian Wang — [mathchallenge@mybenfranklinpta.org](mailto:mathchallenge@mybenfranklinpta.org)
 
 ![Math Challenge flyer](assets/images/math-challenge-flyer.png)

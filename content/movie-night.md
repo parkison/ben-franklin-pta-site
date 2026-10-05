@@ -9,12 +9,26 @@ slug: movie-night
 
 **The Ben Franklin PTA and Drama Club invite you to a screening of _The Jungle Book_!**
 
-- **When:** Friday, October 23, 2026. Doors and concessions open at 6:00 p.m., and the movie starts at 6:15 p.m. (run time 1 hr 18 min).
+## Event Details
+
+- **When:** Friday, October 23, 2026
+- **Doors & concessions open:** 6:00 p.m.
+- **Movie starts:** 6:15 p.m. (run time 1 hr 18 min)
 - **Where:** Franklin Elementary Commons
 - **Cost:** Free entry!
 
-Bring blankets or pillows to sit on (no chairs, please) and enjoy a cozy, family-friendly evening together. This is a family event, so parents must stay and supervise their children.
+## Get Cozy
+
+Bring blankets or pillows to sit on (no chairs, please) and enjoy the show in style!
+
+## Family Fun
+
+This is a family-friendly event, so parents must stay and supervise their children. Enjoy a delightful evening together!
+
+## Support the Drama Club
 
 All concession sales directly benefit the Drama Club's production.
 
-Go Eagles!
+## Questions?
+
+Email [communications@mybenfranklinpta.org](mailto:communications@mybenfranklinpta.org).

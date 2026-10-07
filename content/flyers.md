@@ -7,6 +7,18 @@ slug: flyers
 
 Printable flyers for PTA events. Save the image to your phone or computer, then print or share it.
 
+## Ninja Warrior Run — Photo Share
+
+![Ninja Warrior Run Photo Share flyer](assets/images/flyers/ninja-warrior-run-photo-flyer.png)
+
+[View full-size image](assets/images/flyers/ninja-warrior-run-photo-flyer.png)
+
+## Walk & Ride to School — Photo Share
+
+![Walk and Ride to School Photo Share flyer](assets/images/flyers/walk-and-ride-to-school-photo-flyer.png)
+
+[View full-size image](assets/images/flyers/walk-and-ride-to-school-photo-flyer.png)
+
 ## Fall Family Night — Photo Share
 
 ![Fall Family Night Photo Share flyer](assets/images/flyers/fall-family-night-photo-flyer.png)

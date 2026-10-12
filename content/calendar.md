@@ -9,10 +9,10 @@ slug: calendar
 
 ### October 2026
 
-- **October 2–4** — 5th Grade Camp fundraiser at Dough Zone Kirkland Urban (10% of dine-in and phone orders)
-- **October 7** — Ninja Warrior Run Fundraiser ([volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65664830-franklin))
-- **October 9** — [Walk & Ride to School Day](walk-to-school.html) / Safety Week, 8:00–9:00am ([volunteers needed](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-44474882-volunteer))
 - **October 16** — LEAP Day, no school
+- **October 20** — [Franklin Fall Fest](fall-fest.html) boo-th sign-up deadline
+- **Through October 23** — Feed Munchamin Franklin: drop off individually wrapped candy and small prizes at the school's front entrance
+- **October 22** — Executive Board Meeting, 6:30pm
 - **October 23** — [Movie Night](movie-night.html) with the Drama Club, 6:00pm (free entry)
 - **October 24** — [Franklin Fall Fest](fall-fest.html), 1:00–3:00pm
 
@@ -21,7 +21,9 @@ slug: calendar
 - **November 5** — Individual picture retakes
 - **November 6** — [Reflections Art Competition](reflections.html) entries due (submit to your teacher)
 - **November 11** — Veterans Day, no school
-- **November 19** — International Night
+- **November 12** — [International Night](international-night.html) table sign-up deadline
+- **November 17** — Executive Board Meeting, 6:30pm (online)
+- **November 19** — [International Night](international-night.html), 6:00–8:00pm
 - **November 23–24** — Staff Appreciation event
 - **November 25** — Half day
 - **November 26–27** — Thanksgiving Break, no school
@@ -52,8 +54,8 @@ slug: calendar
 
 - **March 1–5** (exact day TBD) — Read Across America (Literacy Assembly)
 - **March 2** — Class Pictures
+- **March 11** — STEM Symposium
 - **March 12** — LEAP Day, no school
-- **March 18** — STEM Symposium
 - **March 24–26** — 5th Grade Camp
 
 ### April 2027
@@ -106,6 +108,9 @@ slug: calendar
 - **September 29** — School Picture Day (individual pictures)
 - **September 30** — PTA membership renewal deadline
 - **October 2** — Garden Club: sampling the fall harvest, during lunch recess
+- **October 2–4** — 5th Grade Camp fundraiser at Dough Zone Kirkland Urban
+- **October 7** — Ninja Warrior Run Fundraiser — we exceeded our goal, thank you!
+- **October 9** — [Walk & Ride to School Day](walk-to-school.html) / Safety Week
 
 </details>
 

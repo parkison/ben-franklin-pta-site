@@ -8,6 +8,22 @@ hero_alt: Student running the Ninja Warrior Run course
 
 # Ninja Warrior Run Fundraiser 2026
 
+## Thank You for Participating in the Fundraiser!
+
+![Thank you collage of students running the Ninja Warrior obstacle course](assets/images/ninja-warrior-thank-you.jpg)
+
+Dear Franklin Community,
+
+Thanks to the incredible support from our community, we **exceeded our fundraising goal**! We are happy to announce that we will have plenty of fun this year — and YES, this means that **Carnival is coming back in the spring!**
+
+We extend a heartfelt thank-you to all our generous donors whose contributions made a significant impact, especially those large donations that helped us reach our goal. Seeing our community rally around this effort has been truly meaningful and inspiring.
+
+We also want to express our deepest gratitude to the 58 volunteers who dedicated their time and effort to set up, run, and clean up the obstacle course. Your enthusiasm and commitment truly made a difference! We could not have had such an amazing event without your time and support.
+
+Thank you once again for your incredible support.
+
+## About the Event
+
 We're kicking off the year with our only fundraising event, the Ninja Warrior Run! It's a fun way for students to raise money for enhanced educational resources and activities at our school.
 
 ![Ninja Warrior Run event poster](assets/images/ninja-warrior-run-poster.png)
@@ -19,10 +35,6 @@ We're kicking off the year with our only fundraising event, the Ninja Warrior Ru
 That's just $155 per student — help your child reach out to neighbors, friends, and family for support. Donations can be made online below, or by cash/check (payable to Ben Franklin PTA) returned in the fundraising envelope your child will receive the week of September 14; please return envelopes by October 7. Don't forget to check with your company about matching — it doubles your impact! Just include a copy of the completed matching paperwork.
 
 <a href="https://my.cheddarup.com/c/ninja-warrior-run-fundraiser-2026/items" class="btn">Donate Now</a>
-
-For the next few weeks, we'll share tips to make fundraising easy. Then on October 7th, students will celebrate by running an obstacle course during recess!
-
-We can always use extra hands to make it a fun day for everyone — [sign up to volunteer here](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65664830-franklin).
 
 ## Prizes and Raffle
 

@@ -36,6 +36,7 @@ const NAV = [
       { type: "page", slug: "walk-to-school" },
       { type: "page", slug: "movie-night" },
       { type: "page", slug: "fall-fest" },
+      { type: "page", slug: "international-night" },
       { type: "page", slug: "enrichment" },
       { type: "page", slug: "math-enrichment" },
       { type: "page", slug: "math-challenge" },

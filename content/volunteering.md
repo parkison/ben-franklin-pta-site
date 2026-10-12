@@ -7,13 +7,13 @@ slug: volunteering
 
 We'd love your help! Volunteer sign-ups are managed through SignUp Genius. Current opportunities are listed below.
 
-## Ninja Warrior Run — Wednesday, October 7
+## Franklin Fall Fest — Saturday, October 24, 1:00–3:00 p.m.
 
-Help make our fundraiser obstacle course a fun day for everyone! Sign up on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-65664830-franklin). See the [Fundraiser page](donate.html) for event details.
+Help with set-up, clean-up, crafts, games, concessions, and more on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-66629253-general). You can also **host a boo-th** on the Trick-or-Treat Boo-levard — we supply the treats, you bring the fun! [Host a boo-th sign-up](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-66629727-host) (by Tuesday, October 20). See the [Fall Fest page](fall-fest.html) for details.
 
-## Walk & Ride to School Day — Friday, October 9, 8:00–9:00 a.m.
+## International Night — Thursday, November 19, 6:00–8:00 p.m.
 
-Help celebrate walking, rolling, biking, busing, and carpooling to school! Students and families arrive between 8:30 and 9:00 a.m.; the event ends by 9:00 to avoid congestion with buses. Sign up to volunteer on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-44474882-volunteer). See the [Walk & Ride to School page](walk-to-school.html) for event details.
+Host a table representing your country of origin (by November 12), or help set up and take down the event. Sign up on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-66581535-international). See the [International Night page](international-night.html) for details.
 
 ## Fall Enrichment Class Volunteers Needed
 

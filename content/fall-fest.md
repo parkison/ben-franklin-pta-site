@@ -5,6 +5,8 @@ slug: fall-fest
 ---
 # Franklin Fall Fest — Saturday, October 24, 2026
 
+**This event has been cancelled.**
+
 ![Franklin Fall Fest flyer: October 24, 2026, 1:00 to 3:00 PM, Franklin Commons](assets/images/fall-fest-flyer.jpg)
 
 **Get your costumes on and join us for Ben Franklin's first-ever Fall Festival!**

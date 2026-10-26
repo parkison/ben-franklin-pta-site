@@ -17,12 +17,6 @@ The Ben Franklin PTA is looking forward to continuing to support the Franklin co
 
 **Thank you for an amazing Ninja Warrior Run!** Thanks to our incredible community, we **exceeded our fundraising goal** — and yes, that means **Carnival is coming back in the spring!** A huge thank-you to every donor and to the 58 volunteers who set up, ran, and cleaned up the obstacle course. [Read more](donate.html)
 
-**Movie Night — Friday, October 23, 6:00 p.m.** Join the PTA and Drama Club for a free screening of _The Jungle Book_ in the Franklin Elementary Commons. Bring blankets or pillows! [Event details](movie-night.html)
-
-**Franklin Fall Fest — Saturday, October 24, 1:00–3:00 p.m.** Costumes on for our first-ever Fall Festival, indoors at Ben Franklin, rain or shine! Trick-or-Treat Boo-levard, games, crafts, a dance party, photo booth, and a kids' costume parade at 2:00. Free admission. **Host a boo-th by Tuesday, October 20!** [Event details & sign-ups](fall-fest.html)
-
-**Feed Munchamin Franklin!** Our brand-new candy monster is at the school's front entrance, hungry for individually wrapped candy and small prizes, now through Friday, October 23. [Learn more](fall-fest.html)
-
 **Reflections — entries due Friday, November 6.** This year's theme is "What My Culture Means to Me." [Guidelines & entry forms](reflections.html)
 
 **International Night — Thursday, November 19, 6:00–8:00 p.m.** Celebrate the many cultures of our Franklin families! Sign up to host a table by November 12. [Event details](international-night.html)

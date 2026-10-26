@@ -7,15 +7,6 @@ slug: calendar
 
 ## Upcoming Events
 
-### October 2026
-
-- **October 16** — LEAP Day, no school
-- **October 20** — [Franklin Fall Fest](fall-fest.html) boo-th sign-up deadline
-- **Through October 23** — Feed Munchamin Franklin: drop off individually wrapped candy and small prizes at the school's front entrance
-- **October 22** — Executive Board Meeting, 6:30pm
-- **October 23** — [Movie Night](movie-night.html) with the Drama Club, 6:00pm (free entry)
-- **October 24** — [Franklin Fall Fest](fall-fest.html), 1:00–3:00pm
-
 ### November 2026
 
 - **November 5** — Individual picture retakes
@@ -24,7 +15,7 @@ slug: calendar
 - **November 12** — [International Night](international-night.html) table sign-up deadline
 - **November 17** — Executive Board Meeting, 6:30pm (online)
 - **November 19** — [International Night](international-night.html), 6:00–8:00pm
-- **November 23–24** — Staff Appreciation event
+- **November 20** — Staff Appreciation event
 - **November 25** — Half day
 - **November 26–27** — Thanksgiving Break, no school
 
@@ -111,6 +102,11 @@ slug: calendar
 - **October 2–4** — 5th Grade Camp fundraiser at Dough Zone Kirkland Urban
 - **October 7** — Ninja Warrior Run Fundraiser — we exceeded our goal, thank you!
 - **October 9** — [Walk & Ride to School Day](walk-to-school.html) / Safety Week
+- **October 16** — LEAP Day, no school
+- **Through October 23** — Feed Munchamin Franklin candy and small prize drive
+- **October 22** — Executive Board Meeting, 6:30pm
+- **October 23** — [Movie Night](movie-night.html) with the Drama Club
+- **October 24** — Franklin Fall Fest — **Cancelled**
 
 </details>
 

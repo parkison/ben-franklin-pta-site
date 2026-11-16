@@ -9,7 +9,13 @@ We'd love your help! Volunteer sign-ups are managed through SignUp Genius. Curre
 
 ## International Night — Thursday, November 19, 6:00–8:00 p.m.
 
-Host a table representing your country of origin (by November 12), or help set up and take down the event. Sign up on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-66581535-international). See the [International Night page](international-night.html) for details.
+We need help setting up and taking down the event. Sign up on [SignUp Genius](https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-66581535-international). See the [International Night page](international-night.html) for details.
+
+## Hearing and Vision Screening — Thursday, December 3, 9:00 a.m.–12:30 p.m.
+
+The school nurse needs parent volunteers to help screen all students. Arrive at the library promptly at 9:00 a.m. for training. Snacks and coffee are provided. You don't need a medical background, but you do need to be an LWSD-approved volunteer.
+
+<a href="https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-53506860-health" class="btn">Sign Up to Volunteer</a>
 
 ## Fall Enrichment Class Volunteers Needed
 

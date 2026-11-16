@@ -9,19 +9,22 @@ slug: calendar
 
 ### November 2026
 
-- **November 5** — Individual picture retakes
-- **November 6** — [Reflections Art Competition](reflections.html) entries due (submit to your teacher)
-- **November 11** — Veterans Day, no school
-- **November 12** — [International Night](international-night.html) table sign-up deadline
+- **November 1 – December 10** — Lake Washington Schools Foundation [Winter Toy Drive](https://www.lwsf.org/winter-toy-drive)
+- **November 16 – December 1** — Pantry Pack Food Drive
+- **November 17** — Special General Membership Meeting, 6:00pm (online) — vote on a Drama Club EZ Grant
 - **November 17** — Executive Board Meeting, 6:30pm (online)
 - **November 19** — [International Night](international-night.html), 6:00–8:00pm
 - **November 20** — Staff Appreciation event
 - **November 25** — Half day
 - **November 26–27** — Thanksgiving Break, no school
+- **November 30** — 5th Grade Yearbook Cover Contest entries due
 
 ### December 2026
 
-- **December 3** — Vision and Hearing screening
+- **December 3** — Hearing and Vision Screening, 9:00am–12:30pm ([volunteers needed](volunteering.html))
+- **December 10** — General Membership Meeting, 6:00pm (online)
+- **December 10** — Executive Board Meeting, 6:30pm
+- **December 10** — Yearbook Cover Contest winner announced
 - **December 15** — Staff Appreciation event
 - **December 21 – January 1** — Winter Break, no school
 
@@ -107,6 +110,10 @@ slug: calendar
 - **October 22** — Executive Board Meeting, 6:30pm
 - **October 23** — [Movie Night](movie-night.html) with the Drama Club
 - **October 24** — Franklin Fall Fest — **Cancelled**
+- **November 5** — Individual picture retakes
+- **November 6** — [Reflections Art Competition](reflections.html) entries due
+- **November 11** — Veterans Day, no school
+- **November 12** — [International Night](international-night.html) table sign-up deadline
 
 </details>
 
@@ -115,6 +122,7 @@ slug: calendar
 All PTA members are welcome to attend and vote.
 
 - September 4, 2026 at 10:00am (in-person)
+- November 17, 2026 at 6:00pm (online) — special meeting to vote on a Drama Club EZ Grant
 - December 10, 2026 at 6:00pm (online)
 - March 16, 2027 at 6:00pm (online)
 - May 21, 2027 at 9:30am (in-person)

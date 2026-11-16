@@ -14,9 +14,9 @@ slug: international-night
 - **When:** Thursday, November 19, 2026, 6:00–8:00 p.m.
 - **Where:** Ben Franklin Elementary
 - **Admission:** FREE
-- **Table sign-up deadline:** Thursday, November 12
+- **Featuring:** About 12 countries represented, plus a Lion Dance performance!
 
-<a href="https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-66581535-international" class="btn">Sign Up to Host a Table or Volunteer</a>
+<a href="https://www.signupgenius.com/go/10C0F4CAFAB2BA1FAC34-66581535-international" class="btn">Volunteer to Set Up or Take Down</a>
 
 ## Frequently Asked Questions
 

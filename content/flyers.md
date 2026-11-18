@@ -7,6 +7,18 @@ slug: flyers
 
 Printable flyers for PTA events. Save the image to your phone or computer, then print or share it.
 
+## International Night — Photo Share
+
+![International Night Photo Share flyer](assets/images/flyers/international-night-photo-flyer.png)
+
+[View full-size image](assets/images/flyers/international-night-photo-flyer.png)
+
+## Classroom Parties — Photo Share
+
+![Classroom Parties Photo Share flyer](assets/images/flyers/classroom-parties-photo-flyer.png)
+
+[View full-size image](assets/images/flyers/classroom-parties-photo-flyer.png)
+
 ## Ninja Warrior Run — Photo Share
 
 ![Ninja Warrior Run Photo Share flyer](assets/images/flyers/ninja-warrior-run-photo-flyer.png)
